@@ -270,6 +270,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 12251,M,30,2023-06-26,Chronic Kidney Disease,N18,ACE inhibitors,Sleep Apnea,153,75,99,38.8,110,256,Stable,0
 69437,F,69,2016-06-07,Depression,N18,ACE inhibitors,Smoking,161,76,59,37.8,81,191,Stable,0
 38433,M,38,2015-12-26,Osteoarthritis,I25,Antidepressants,Obesity,165,106,71,37.3,103,172,Stable,0
+7130,F,51,2022-09-03,Asthma,M19,Lifestyle changes,Hyperlipidemia,131,108,72,38.0,76,190,Stable,1
 40890,F,67,2025-04-25,Diabetes Mellitus,E11,Lifestyle changes,Hyperlipidemia,138,92,87,38.3,141,244,Worsened,1
 30999,M,54,2020-02-23,Ischemic Heart Disease,N18,Physical therapy,Hyperlipidemia,173,72,71,37.9,80,247,Stable,1
 56146,F,52,2020-12-18,Asthma,J45,ACE inhibitors,Sleep Apnea,104,69,66,36.0,125,170,Worsened,1
@@ -287,6 +288,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 80829,F,89,2016-09-27,Chronic Kidney Disease,N18,Antidepressants,,156,99,118,38.9,168,183,Worsened,1
 51726,F,58,2020-12-30,Hypertension,J44,Physical therapy,Anemia,106,106,84,39.3,178,159,Improved,1
 33880,F,30,2019-12-19,Ischemic Heart Disease,E11,Physical therapy,Obesity,102,61,80,36.7,168,197,Improved,0
+7130,F,51,2022-09-03,Asthma,M19,Lifestyle changes,Hyperlipidemia,131,108,72,38.0,76,190,Stable,1
 83007,M,69,2018-01-09,Hypertension,J45,Insulin,Smoking,159,67,79,36.3,129,269,Stable,1
 73909,M,88,2019-12-12,Osteoarthritis,N18,Antidepressants,Anemia,141,93,101,36.9,101,136,Stable,1
 67247,F,76,2021-09-12,Osteoarthritis,M19,Antidepressants,Smoking,178,101,103,38.0,113,279,Improved,1
@@ -310,6 +312,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 29776,F,36,2021-11-16,Hypertension,I10,Antidepressants,Obesity,153,83,78,36.3,126,173,Worsened,0
 34808,M,64,2017-03-29,Chronic Kidney Disease,J45,Lifestyle changes,,129,88,77,37.1,128,246,Stable,1
 16886,F,24,2020-07-06,Diabetes Mellitus,M19,ACE inhibitors,Anemia,103,104,110,39.3,186,242,Improved,1
+88808,F,54,2021-10-30,Asthma,M19,Antidepressants,Hyperlipidemia,157,106,79,37.1,80,189,Improved,0
 49984,F,73,2025-03-17,Asthma,J45,Insulin,,176,68,106,39.3,197,245,Improved,0
 62615,M,31,2024-08-18,Osteoarthritis,J45,ACE inhibitors,Obesity,134,64,90,36.5,152,170,Worsened,0
 14229,M,60,2022-06-28,Asthma,F32,Antidepressants,,146,96,97,37.4,87,246,Stable,0
@@ -3422,6 +3425,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 53309,M,67,2023-04-23,Osteoarthritis,N18,Insulin,Obesity,134,103,110,38.7,173,235,Improved,1
 3905,F,37,2023-08-24,COPD,E11,Insulin,Anemia,135,73,86,37.1,77,244,Worsened,1
 98681,F,31,2023-08-14,Chronic Kidney Disease,J44,Physical therapy,Anemia,167,99,70,36.4,188,156,Worsened,0
+88808,F,54,2021-10-30,Asthma,M19,Antidepressants,Hyperlipidemia,157,106,79,37.1,80,189,Improved,0
 87915,F,82,2016-04-01,Depression,I25,Dialysis,Hyperlipidemia,111,100,81,39.0,182,241,Stable,0
 23603,M,78,2023-09-08,Diabetes Mellitus,F32,Lifestyle changes,Obesity,175,93,107,39.2,171,231,Stable,1
 47167,F,30,2022-01-08,Depression,I10,Beta-blockers,Anemia,130,67,78,39.0,71,149,Improved,0
@@ -7890,6 +7894,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 40498,M,28,2023-06-10,Ischemic Heart Disease,I10,Beta-blockers,Hyperlipidemia,179,77,90,39.0,131,240,Stable,1
 10836,M,90,2018-06-26,Osteoarthritis,N18,Insulin,,178,74,103,36.3,81,216,Stable,1
 99794,M,51,2019-04-29,Osteoarthritis,N18,Lifestyle changes,Smoking,101,64,90,38.0,196,157,Stable,1
+88808,F,54,2021-10-30,Asthma,M19,Antidepressants,Hyperlipidemia,157,106,79,37.1,80,189,Improved,0
 70004,M,30,2020-01-04,Osteoarthritis,F32,Insulin,,162,105,120,38.4,91,272,Worsened,1
 40842,M,81,2015-07-18,Hypertension,E11,Insulin,Hyperlipidemia,100,75,60,36.3,108,256,Worsened,0
 69861,M,33,2023-10-28,Chronic Kidney Disease,I25,ACE inhibitors,,125,66,56,37.8,146,224,Worsened,0
@@ -7899,7 +7904,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 34272,F,54,2021-06-12,Osteoarthritis,E11,Lifestyle changes,Obesity,135,98,110,36.4,80,254,Worsened,0
 88013,M,55,2017-07-10,Depression,I10,Inhalers,Sleep Apnea,180,60,120,37.6,154,142,Stable,0
 29466,M,64,2018-12-20,Diabetes Mellitus,J44,Beta-blockers,Anemia,161,105,97,38.9,102,271,Improved,1
-80949,F,87,2024-04-20,Diabetes Mellitus,J45,Insulin,Anemia,125,67,81,36.3,152,188,Stable,1
+80949,F,87,20-04-2024,Diabetes Mellitus,J45,Insulin,Anemia,125,67,81,36.3,152,188,Stable,1
 91368,M,53,2019-12-06,Diabetes Mellitus,N18,Beta-blockers,Obesity,112,73,103,38.5,124,174,Improved,0
 96361,F,18,2021-06-29,Hypertension,J45,Beta-blockers,,124,93,77,38.1,90,142,Worsened,1
 63446,M,60,2021-04-13,COPD,E11,Inhalers,Anemia,132,109,78,37.4,170,274,Stable,1
@@ -7909,7 +7914,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 87762,M,84,2024-05-31,Ischemic Heart Disease,F32,Lifestyle changes,,172,63,100,38.8,165,172,Stable,0
 76970,F,82,2024-11-09,Ischemic Heart Disease,F32,ACE inhibitors,Smoking,177,78,74,38.2,103,213,Stable,0
 53134,F,58,2022-06-19,Ischemic Heart Disease,M19,Inhalers,Obesity,135,62,77,37.0,162,160,Stable,1
-97851,M,46,2016-01-19,Depression,I10,Insulin,,155,102,70,39.4,106,158,Stable,0
+97851,M,46,19-01-2016,Depression,I10,Insulin,,155,102,70,39.4,106,158,Stable,0
 28645,F,53,2021-07-08,Chronic Kidney Disease,M19,Insulin,Sleep Apnea,128,84,104,38.3,162,276,Stable,0
 45532,F,56,2023-09-26,Ischemic Heart Disease,M19,Lifestyle changes,,177,87,117,39.5,79,234,Worsened,0
 66439,F,71,2020-12-10,Diabetes Mellitus,F32,Inhalers,Smoking,163,108,114,36.1,197,262,Worsened,0
@@ -9761,7 +9766,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 55696,M,65,2021-05-20,Osteoarthritis,N18,Antidepressants,Anemia,174,83,99,37.7,88,231,Stable,0
 63364,M,74,2019-02-28,Hypertension,N18,Antidepressants,Sleep Apnea,129,96,88,39.3,161,232,Improved,1
 41858,M,20,2021-02-03,Diabetes Mellitus,J44,Lifestyle changes,,180,60,113,37.8,81,257,Improved,1
-22849,M,33,2023-09-27,Hypertension,J44,Beta-blockers,Smoking,130,76,92,36.1,110,195,Stable,1
+22849,Male,33,2023-09-27,Hypertension,J44,Beta-blockers,Smoking,130,76,92,36.1,110,195,Stable,1
 26081,F,27,2016-12-31,Ischemic Heart Disease,I10,Physical therapy,Smoking,103,98,78,38.6,78,142,Improved,1
 22057,M,77,2020-10-04,Depression,N18,Dialysis,Hyperlipidemia,173,77,112,38.8,152,168,Worsened,1
 73242,M,71,2019-02-21,Asthma,M19,Antidepressants,Smoking,170,97,77,38.2,109,238,Improved,1
@@ -9771,7 +9776,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 94187,F,63,2023-06-22,COPD,M19,Antidepressants,Hyperlipidemia,108,110,106,38.8,186,196,Improved,1
 61644,F,85,2022-11-24,Depression,I10,ACE inhibitors,,104,107,57,38.6,99,144,Improved,1
 29958,M,45,2018-04-04,Chronic Kidney Disease,F32,Physical therapy,Smoking,134,60,55,38.1,77,170,Improved,0
-98612,F,31,2023-02-24,Diabetes Mellitus,N18,ACE inhibitors,Sleep Apnea,155,101,94,39.0,157,141,Improved,0
+98612,Female,31,2023-02-24,Diabetes Mellitus,N18,ACE inhibitors,Sleep Apnea,155,101,94,39.0,157,141,Improved,0
 22129,F,63,2018-01-08,Diabetes Mellitus,F32,Physical therapy,Obesity,119,65,82,38.2,123,212,Stable,1
 41420,F,67,2022-07-05,Chronic Kidney Disease,J45,ACE inhibitors,Sleep Apnea,116,69,110,38.1,178,200,Improved,0
 36617,F,84,2019-10-16,Chronic Kidney Disease,J44,Inhalers,,140,73,108,39.4,104,279,Worsened,0
@@ -9801,7 +9806,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 42848,F,49,2021-08-04,Osteoarthritis,N18,Dialysis,Sleep Apnea,108,108,88,39.1,185,270,Stable,1
 52581,M,58,2016-07-25,Ischemic Heart Disease,F32,Physical therapy,,145,77,107,39.0,107,264,Improved,0
 80890,F,77,2015-12-18,Osteoarthritis,M19,ACE inhibitors,Sleep Apnea,168,79,111,38.3,86,168,Stable,0
-59319,M,62,2022-06-14,Diabetes Mellitus,M19,Physical therapy,Smoking,107,66,69,36.8,200,169,Improved,0
+59319,Male,62,2022-06-14,Diabetes Mellitus,M19,Physical therapy,Smoking,107,66,69,36.8,200,169,Improved,0
 97007,F,85,2017-09-05,Hypertension,F32,Insulin,Anemia,156,108,79,36.6,193,160,Stable,0
 48764,F,72,2017-12-09,Diabetes Mellitus,N18,Inhalers,Smoking,171,73,110,38.5,169,140,Worsened,0
 66720,F,24,2020-08-11,Diabetes Mellitus,E11,Dialysis,Hyperlipidemia,175,87,78,37.2,145,137,Stable,0
@@ -9971,7 +9976,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 41268,M,39,2019-02-04,COPD,J45,Antidepressants,Hyperlipidemia,124,87,85,39.3,82,280,Worsened,1
 17064,M,39,2016-10-13,Chronic Kidney Disease,J45,Dialysis,,107,94,94,39.3,154,179,Improved,1
 30501,M,75,2024-01-04,Hypertension,E11,Physical therapy,Sleep Apnea,127,84,111,36.9,144,217,Worsened,0
-30036,M,35,2023-03-07,Ischemic Heart Disease,I25,Inhalers,Obesity,135,95,102,38.6,103,236,Stable,0
+30036,M,135,2023-03-07,Ischemic Heart Disease,I25,Inhalers,Obesity,135,95,102,38.6,103,236,Stable,0
 12729,M,30,2016-07-17,Diabetes Mellitus,I25,Beta-blockers,Sleep Apnea,101,66,105,36.5,173,134,Stable,0
 93661,F,21,2023-02-03,Depression,I10,Antidepressants,,157,95,79,36.5,125,238,Improved,1
 32731,M,56,2019-01-30,Diabetes Mellitus,I25,Antidepressants,Smoking,109,109,76,36.1,192,144,Improved,1
@@ -9986,7 +9991,7 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 38590,F,71,2024-09-06,Depression,N18,Dialysis,Hyperlipidemia,172,96,76,36.9,125,256,Improved,0
 87040,M,55,2021-03-19,Ischemic Heart Disease,J45,Antidepressants,,180,65,61,38.0,132,179,Stable,1
 52142,F,84,2018-10-18,COPD,F32,Insulin,Sleep Apnea,164,96,95,37.4,96,207,Stable,0
-84396,F,75,2016-11-06,Ischemic Heart Disease,F32,Lifestyle changes,Hyperlipidemia,168,89,119,38.3,99,192,Stable,0
+84396,F,175,2016-11-06,Ischemic Heart Disease,F32,Lifestyle changes,Hyperlipidemia,168,89,119,38.3,99,192,Stable,0
 1654,F,78,2020-01-11,COPD,F32,Inhalers,Anemia,106,60,68,38.8,99,174,Improved,0
 98514,F,78,2024-02-13,Chronic Kidney Disease,I25,ACE inhibitors,Obesity,144,76,66,36.8,187,238,Worsened,1
 49788,F,54,2019-03-09,Depression,E11,Inhalers,Hyperlipidemia,131,106,82,37.8,86,200,Improved,1
@@ -9996,6 +10001,6 @@ Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systol
 5785,M,61,2015-11-20,COPD,I25,Lifestyle changes,Sleep Apnea,139,99,77,37.5,96,275,Worsened,0
 5003,F,72,2023-11-01,Ischemic Heart Disease,J44,Beta-blockers,,141,68,63,38.3,159,267,Stable,1
 30152,M,73,2018-06-29,Hypertension,I25,Beta-blockers,,158,87,60,36.4,97,195,Worsened,0
-93195,F,40,2018-09-13,Diabetes Mellitus,I25,Insulin,Smoking,130,93,120,38.9,107,181,Improved,0
-73200,M,63,2021-05-24,Diabetes Mellitus,M19,Insulin,,144,100,64,36.9,180,267,Improved,1
+93195,Female,140,2018-09-13,Diabetes Mellitus,I25,Insulin,Smoking,130,93,120,38.9,107,181,Improved,0
+73200,Male,63,2021-05-24,Diabetes Mellitus,M19,Insulin,,144,100,64,36.9,180,267,Improved,1
 74480,M,62,2023-01-06,Chronic Kidney Disease,J45,Insulin,Smoking,100,74,74,38.2,151,269,Improved,0
