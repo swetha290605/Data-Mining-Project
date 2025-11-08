@@ -1,5 +1,4 @@
 # EHR system with Random Forest Method of Model Training
-
 import pandas as pd
 import numpy as np
 import sys
