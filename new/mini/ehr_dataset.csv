@@ -1,0 +1,1001 @@
+Patient ID,Sex,Age,Visit Date,Diagnosis,ICD-10 Code,Treatment,Comorbidity,Systolic BP,Diastolic BP,Heart Rate,Temperature,Glucose,Cholesterol,Clinical Outcome,Relapse Risk
+75722,F,78,2022-11-10,Hypertension,E11,Dialysis,Obesity,110,73,74,36.4,191,131,Stable,0
+80185,M,72,2015-07-13,Diabetes Mellitus,I25,Insulin,Obesity,173,90,119,38.0,137,183,Stable,1
+19865,M,51,2024-01-16,Asthma,F32,ACE inhibitors,Hyperlipidemia,138,103,77,38.0,154,160,Improved,1
+76700,M,41,2022-11-16,Osteoarthritis,E11,Lifestyle changes,Hyperlipidemia,129,88,116,37.1,117,176,Improved,0
+92992,M,75,2017-11-26,Chronic Kidney Disease,I25,Beta-blockers,Sleep Apnea,124,64,120,37.2,179,214,Stable,1
+76435,M,53,2018-04-29,Chronic Kidney Disease,I25,ACE inhibitors,Hyperlipidemia,100,82,86,39.0,152,184,Stable,0
+84005,F,69,2024-09-03,Osteoarthritis,I10,Antidepressants,Sleep Apnea,136,106,85,39.5,129,220,Improved,0
+80918,F,80,2017-06-02,Hypertension,E11,Inhalers,Sleep Apnea,164,85,82,37.8,169,219,Stable,0
+60768,M,79,2016-09-28,Diabetes Mellitus,E11,ACE inhibitors,Anemia,122,80,114,39.1,165,278,Worsened,0
+50075,F,35,2015-09-20,Asthma,N18,Physical therapy,,176,61,94,37.4,85,167,Improved,0
+27702,M,50,2015-07-07,Ischemic Heart Disease,J44,Beta-blockers,Smoking,152,78,66,36.6,89,162,Stable,0
+42142,M,38,2025-03-14,Hypertension,E11,ACE inhibitors,,142,106,56,39.2,94,205,Improved,0
+45081,F,65,2019-03-28,COPD,N18,ACE inhibitors,Anemia,171,91,91,38.5,131,139,Worsened,1
+16639,F,76,2024-03-15,Chronic Kidney Disease,I25,ACE inhibitors,Sleep Apnea,154,105,92,36.5,156,234,Improved,1
+20425,F,32,2024-05-29,Ischemic Heart Disease,J45,ACE inhibitors,Hyperlipidemia,108,70,77,39.1,77,167,Improved,0
+88703,M,65,2021-04-20,Asthma,J44,Dialysis,Sleep Apnea,122,92,74,37.4,107,133,Stable,1
+150,F,88,2023-08-16,Depression,I10,Beta-blockers,Anemia,177,77,83,38.2,73,134,Stable,0
+1762,M,18,2024-08-21,Hypertension,F32,Beta-blockers,Hyperlipidemia,155,103,85,36.5,152,204,Worsened,1
+63121,M,48,2024-07-28,Asthma,J44,Physical therapy,Obesity,173,98,63,37.9,168,149,Worsened,1
+69162,F,89,2018-10-21,Hypertension,M19,ACE inhibitors,Smoking,159,61,81,39.1,99,227,Worsened,1
+64884,F,20,2017-07-15,Asthma,E11,Antidepressants,Obesity,132,100,112,37.1,119,131,Improved,0
+2496,M,49,2020-02-09,COPD,N18,Dialysis,Hyperlipidemia,124,77,86,37.9,106,201,Improved,0
+80297,M,87,2023-11-17,Depression,J44,Lifestyle changes,Hyperlipidemia,102,74,93,38.4,170,216,Improved,1
+19448,F,65,2022-03-03,Asthma,I25,Dialysis,Obesity,113,110,71,38.6,125,230,Improved,0
+41332,F,47,2024-01-07,Depression,M19,Dialysis,Hyperlipidemia,116,104,116,36.1,101,229,Improved,1
+14889,M,85,2021-03-06,Chronic Kidney Disease,E11,Antidepressants,Hyperlipidemia,136,92,75,39.4,196,271,Improved,1
+88637,F,32,2021-09-14,Asthma,I10,Lifestyle changes,Hyperlipidemia,106,89,73,37.1,190,144,Stable,1
+94893,F,57,2018-11-08,COPD,M19,Lifestyle changes,Anemia,150,98,113,37.2,86,260,Worsened,1
+92732,F,67,2017-05-26,Diabetes Mellitus,N18,Dialysis,Smoking,154,66,120,37.8,149,271,Improved,0
+29131,M,43,2024-11-30,Chronic Kidney Disease,I25,Dialysis,Hyperlipidemia,152,73,86,37.5,92,232,Improved,0
+79023,M,80,2025-04-16,Diabetes Mellitus,N18,Lifestyle changes,Hyperlipidemia,147,85,107,38.7,95,133,Improved,1
+84937,M,87,2017-08-27,Diabetes Mellitus,E11,Physical therapy,Anemia,115,75,100,39.3,126,212,Improved,1
+16822,M,42,2024-06-13,Diabetes Mellitus,E11,Lifestyle changes,,155,85,73,36.1,97,198,Improved,1
+36734,M,34,2017-02-28,Diabetes Mellitus,J45,Beta-blockers,Smoking,117,83,88,38.5,113,188,Worsened,1
+15603,F,86,2016-11-30,Ischemic Heart Disease,F32,Lifestyle changes,Anemia,141,63,63,37.3,155,255,Stable,1
+28534,M,88,2016-05-18,Osteoarthritis,I25,ACE inhibitors,Hyperlipidemia,135,65,69,36.3,134,264,Worsened,0
+69770,M,20,2019-12-25,Osteoarthritis,I25,Dialysis,Hyperlipidemia,106,84,95,38.9,177,150,Worsened,0
+11406,F,89,2020-05-22,Depression,J45,Dialysis,Anemia,119,88,55,36.1,100,193,Improved,1
+96853,M,41,2018-02-08,Ischemic Heart Disease,E11,Beta-blockers,Obesity,142,77,107,38.9,107,139,Stable,0
+16131,M,39,2025-03-13,Osteoarthritis,J44,Dialysis,Anemia,159,69,98,39.0,83,270,Stable,1
+19793,F,35,2018-04-19,Depression,M19,Physical therapy,Hyperlipidemia,153,62,70,37.1,130,155,Worsened,0
+89578,F,60,2018-04-30,Hypertension,J44,ACE inhibitors,Anemia,132,109,78,36.9,187,167,Worsened,0
+40164,M,62,2016-09-26,COPD,F32,ACE inhibitors,Hyperlipidemia,176,82,64,36.2,134,146,Worsened,0
+31777,F,27,2016-04-30,Diabetes Mellitus,E11,Beta-blockers,Anemia,111,69,60,39.1,105,159,Stable,1
+25331,M,27,2015-07-21,Diabetes Mellitus,J45,Antidepressants,Smoking,138,108,72,39.1,126,166,Stable,1
+79157,M,31,2024-07-25,Depression,J45,ACE inhibitors,Sleep Apnea,177,110,65,38.7,98,262,Stable,1
+51686,M,78,2017-10-19,Diabetes Mellitus,F32,Dialysis,Obesity,160,104,118,37.7,156,169,Worsened,0
+75499,F,47,2018-03-21,Osteoarthritis,N18,Insulin,Hyperlipidemia,164,91,58,37.7,88,261,Worsened,0
+4728,F,44,2022-12-27,Ischemic Heart Disease,I25,Dialysis,Anemia,146,100,84,39.4,102,157,Improved,0
+85199,M,77,2019-02-28,Asthma,N18,Beta-blockers,Obesity,102,103,117,36.9,170,261,Stable,0
+35796,F,52,2021-04-10,Diabetes Mellitus,N18,Antidepressants,Anemia,159,77,73,36.3,86,226,Worsened,0
+12257,M,45,2019-08-08,Depression,F32,Antidepressants,Hyperlipidemia,133,67,72,38.9,122,237,Stable,0
+35719,F,28,2016-10-06,Ischemic Heart Disease,J45,ACE inhibitors,Obesity,145,110,90,39.3,121,197,Worsened,1
+70552,M,66,2019-08-02,COPD,I10,ACE inhibitors,Hyperlipidemia,122,108,111,37.8,127,199,Improved,0
+54375,M,34,2024-12-17,COPD,F32,Physical therapy,Hyperlipidemia,141,61,63,36.3,88,145,Improved,1
+39692,F,55,2019-12-25,Osteoarthritis,M19,Beta-blockers,Smoking,167,107,62,36.2,198,196,Improved,0
+93703,M,35,2024-11-19,Diabetes Mellitus,F32,Dialysis,,170,94,116,37.8,139,145,Worsened,0
+73692,M,71,2023-10-17,Diabetes Mellitus,I10,Physical therapy,Obesity,111,109,99,37.8,114,231,Worsened,0
+98071,M,48,2022-03-21,COPD,F32,Lifestyle changes,Anemia,160,79,116,36.6,71,184,Stable,0
+576,F,40,2021-12-20,Depression,J44,ACE inhibitors,,155,108,67,39.5,74,257,Stable,0
+84611,F,79,2019-01-26,Hypertension,I25,Dialysis,,154,63,90,36.3,152,211,Stable,1
+61770,M,32,2016-12-02,Osteoarthritis,M19,Inhalers,Obesity,170,108,56,37.3,160,247,Stable,1
+32261,F,33,2023-08-07,Asthma,M19,Beta-blockers,Smoking,110,107,84,37.1,123,166,Stable,1
+82200,M,56,2021-01-05,Chronic Kidney Disease,M19,Antidepressants,Anemia,107,91,99,38.1,87,237,Improved,1
+36291,F,84,2024-10-15,Diabetes Mellitus,M19,Beta-blockers,Hyperlipidemia,165,64,119,37.0,181,179,Improved,1
+78450,M,45,2018-03-19,Ischemic Heart Disease,M19,Inhalers,Obesity,164,67,88,36.7,159,211,Worsened,1
+60056,F,84,2017-06-10,Hypertension,I25,Dialysis,Sleep Apnea,137,89,94,36.7,162,197,Improved,0
+45949,F,47,2023-02-11,Osteoarthritis,I10,Beta-blockers,Sleep Apnea,106,95,78,36.6,156,263,Worsened,0
+28178,M,23,2017-01-08,Chronic Kidney Disease,E11,Dialysis,Obesity,109,100,81,36.5,120,251,Worsened,0
+84464,F,74,2017-01-09,Chronic Kidney Disease,M19,ACE inhibitors,Obesity,102,75,64,37.4,89,263,Worsened,1
+579,F,55,2020-12-19,Asthma,N18,Lifestyle changes,Smoking,103,82,78,36.7,149,276,Improved,1
+30960,F,45,2022-02-26,Chronic Kidney Disease,I25,Lifestyle changes,Smoking,130,79,117,38.5,165,146,Worsened,0
+64291,F,30,2016-06-14,Asthma,J45,Lifestyle changes,Smoking,135,102,104,36.7,105,273,Improved,0
+14532,F,71,2021-03-25,Diabetes Mellitus,F32,Beta-blockers,Sleep Apnea,179,85,57,39.0,99,142,Worsened,0
+17934,F,39,2021-06-12,Chronic Kidney Disease,J45,Dialysis,,105,63,71,36.7,135,224,Worsened,0
+33609,M,58,2025-05-10,Depression,J45,Beta-blockers,Obesity,164,77,78,38.1,200,159,Improved,1
+49960,M,59,2016-12-21,Hypertension,M19,Dialysis,,110,102,93,38.0,136,253,Improved,1
+66599,M,19,2015-12-24,Hypertension,J44,Beta-blockers,Sleep Apnea,160,97,115,39.1,194,235,Improved,0
+99090,M,70,2016-05-02,Osteoarthritis,N18,Beta-blockers,Smoking,128,69,118,38.5,105,200,Improved,0
+34452,M,67,2017-02-06,COPD,I10,ACE inhibitors,Hyperlipidemia,159,85,81,37.8,156,270,Stable,1
+34081,M,76,2016-11-24,Depression,E11,Physical therapy,Sleep Apnea,123,74,68,38.0,101,229,Improved,0
+63588,F,38,2024-03-04,Diabetes Mellitus,I25,Lifestyle changes,,110,76,91,39.5,124,210,Improved,0
+4294,M,55,2018-02-28,Depression,M19,Lifestyle changes,Obesity,110,81,109,38.8,191,165,Stable,1
+69103,F,63,2022-12-17,Ischemic Heart Disease,N18,Physical therapy,Anemia,133,81,87,37.7,150,241,Improved,0
+86412,F,68,2018-03-13,Diabetes Mellitus,J45,Insulin,Smoking,118,95,78,39.2,114,172,Stable,1
+99477,M,69,2021-06-10,COPD,J44,Inhalers,Obesity,158,104,55,36.6,153,207,Improved,0
+53930,F,63,2023-11-02,Chronic Kidney Disease,J45,Antidepressants,Obesity,106,101,63,36.3,88,140,Stable,0
+87071,M,77,2023-06-25,Chronic Kidney Disease,J45,Physical therapy,Smoking,105,62,65,39.5,128,269,Worsened,0
+65084,F,44,2023-05-27,Osteoarthritis,J44,Physical therapy,Anemia,173,89,96,37.4,89,194,Worsened,1
+30713,F,40,2025-04-27,Osteoarthritis,M19,Beta-blockers,Obesity,104,98,59,37.4,112,231,Improved,1
+49183,F,54,2024-10-09,COPD,I10,Lifestyle changes,Hyperlipidemia,155,89,101,36.8,125,156,Stable,1
+57235,M,90,2023-08-10,Diabetes Mellitus,I25,Physical therapy,Sleep Apnea,145,85,63,36.5,164,247,Stable,0
+15664,M,19,2024-05-08,Hypertension,F32,Lifestyle changes,Sleep Apnea,102,60,97,37.8,120,273,Worsened,1
+19967,F,63,2020-06-10,Hypertension,J44,Lifestyle changes,,162,85,115,36.4,168,200,Improved,1
+91913,F,19,2021-07-18,Diabetes Mellitus,M19,ACE inhibitors,,158,90,93,36.1,74,141,Improved,1
+91958,F,67,2024-11-02,Hypertension,F32,ACE inhibitors,Anemia,163,100,105,39.0,104,266,Improved,0
+81347,M,18,2020-03-02,Asthma,N18,Inhalers,,123,75,75,37.1,162,174,Stable,1
+55326,F,45,2017-04-16,Hypertension,J44,Lifestyle changes,,162,63,101,38.5,99,178,Improved,0
+29858,F,54,2017-05-04,Diabetes Mellitus,E11,Physical therapy,Sleep Apnea,128,98,60,36.2,175,230,Stable,0
+71223,F,30,2020-01-25,Hypertension,N18,Inhalers,Sleep Apnea,171,66,111,39.0,196,149,Worsened,0
+52459,M,30,2017-05-04,Asthma,J45,Dialysis,Hyperlipidemia,131,70,89,36.5,190,279,Worsened,0
+88346,M,63,2022-05-04,Chronic Kidney Disease,I10,ACE inhibitors,,155,98,74,37.9,76,273,Worsened,1
+82364,F,22,2021-04-21,Depression,N18,Insulin,,126,73,56,37.0,111,269,Stable,0
+65350,M,78,2024-10-13,COPD,M19,Physical therapy,Smoking,165,99,71,39.4,182,261,Improved,1
+59650,F,67,2018-12-10,Hypertension,E11,Beta-blockers,Sleep Apnea,171,87,69,38.3,187,264,Worsened,1
+44953,F,26,2016-01-03,COPD,J44,Lifestyle changes,Obesity,134,70,89,39.3,96,211,Worsened,1
+39526,F,48,2021-12-28,COPD,J45,Lifestyle changes,Smoking,167,107,80,37.6,190,278,Improved,1
+13936,F,27,2020-05-02,Chronic Kidney Disease,J44,Beta-blockers,Hyperlipidemia,174,89,72,38.9,106,172,Improved,1
+93781,M,39,2022-08-08,Ischemic Heart Disease,F32,Antidepressants,Smoking,102,88,97,37.6,160,206,Stable,0
+89885,F,50,2024-04-22,Osteoarthritis,F32,Physical therapy,Smoking,144,86,97,36.4,168,206,Stable,0
+81144,M,33,2017-12-25,COPD,F32,Inhalers,Smoking,126,107,86,36.9,79,132,Worsened,1
+95800,F,28,2018-10-18,Diabetes Mellitus,N18,Antidepressants,Hyperlipidemia,108,75,105,39.4,72,240,Stable,0
+89405,M,89,2020-07-27,Diabetes Mellitus,I10,Physical therapy,,165,69,58,37.6,131,257,Worsened,1
+55224,M,24,2019-08-31,Diabetes Mellitus,F32,Antidepressants,Hyperlipidemia,136,66,106,36.2,98,222,Worsened,1
+73646,F,70,2016-04-14,Asthma,I10,Insulin,Obesity,141,92,87,36.5,146,226,Worsened,1
+66294,M,84,2022-01-03,Chronic Kidney Disease,E11,ACE inhibitors,Obesity,155,73,104,36.7,93,153,Improved,1
+65540,M,29,2020-09-19,Osteoarthritis,E11,Antidepressants,Hyperlipidemia,143,110,84,38.2,131,195,Worsened,0
+28111,F,49,2024-12-12,Depression,J45,Physical therapy,Sleep Apnea,102,76,94,36.3,157,132,Improved,0
+41929,F,74,2023-11-25,Depression,M19,Lifestyle changes,,160,63,104,39.4,150,137,Worsened,0
+86547,M,72,2020-11-16,Depression,J45,Insulin,,108,65,117,38.1,159,266,Worsened,0
+82586,M,45,2018-06-01,Chronic Kidney Disease,F32,Lifestyle changes,Anemia,166,88,68,37.6,168,181,Stable,0
+38604,F,51,2021-01-14,COPD,I25,Insulin,Hyperlipidemia,109,106,57,37.2,104,255,Stable,0
+91658,F,80,2025-01-31,COPD,M19,Antidepressants,Anemia,117,64,118,37.8,84,208,Improved,0
+62787,M,63,2017-12-05,Hypertension,J44,Physical therapy,Smoking,118,83,83,36.6,160,168,Stable,0
+84341,M,51,2016-08-12,Chronic Kidney Disease,I25,Insulin,Hyperlipidemia,136,106,105,38.9,190,262,Improved,0
+39875,F,27,2022-05-03,COPD,E11,Lifestyle changes,Smoking,126,92,74,37.6,188,221,Worsened,0
+78469,F,58,2022-08-11,Depression,J45,Antidepressants,Smoking,164,76,76,39.4,177,259,Worsened,0
+31632,F,72,2017-02-26,Ischemic Heart Disease,J45,Lifestyle changes,,142,103,83,39.2,87,172,Improved,0
+14953,F,48,2024-12-09,Chronic Kidney Disease,M19,Beta-blockers,Obesity,136,88,85,36.6,148,190,Worsened,1
+39332,M,27,2019-08-07,Depression,F32,ACE inhibitors,Obesity,178,101,113,37.2,107,266,Worsened,0
+48588,M,63,2024-05-17,COPD,N18,ACE inhibitors,Hyperlipidemia,180,101,61,37.4,118,168,Worsened,0
+83595,F,86,2016-08-19,Ischemic Heart Disease,F32,Dialysis,Obesity,119,108,56,39.0,145,243,Worsened,1
+41488,M,88,2017-09-08,Chronic Kidney Disease,N18,Antidepressants,Obesity,114,96,105,37.0,102,198,Worsened,0
+39628,F,62,2024-02-03,Hypertension,J45,Lifestyle changes,Smoking,165,81,84,36.8,78,149,Stable,0
+87895,F,62,2016-10-26,Asthma,I10,ACE inhibitors,Hyperlipidemia,147,96,69,39.1,149,176,Stable,0
+26304,F,82,2016-09-03,COPD,I10,Physical therapy,Sleep Apnea,165,90,94,36.5,183,168,Stable,0
+67404,F,29,2024-03-22,Hypertension,N18,Dialysis,Anemia,142,65,69,36.7,98,261,Improved,1
+98085,M,73,2021-08-26,Chronic Kidney Disease,E11,Lifestyle changes,,124,86,102,39.1,104,236,Stable,1
+95602,M,66,2020-11-15,Hypertension,M19,ACE inhibitors,Anemia,175,82,111,39.5,75,208,Stable,1
+5020,F,51,2023-07-09,Diabetes Mellitus,J45,Physical therapy,Smoking,162,101,88,38.1,132,231,Improved,0
+5224,F,30,2019-01-05,Hypertension,E11,Dialysis,Anemia,122,93,66,38.0,102,157,Stable,1
+15781,F,79,2021-02-23,Diabetes Mellitus,F32,Inhalers,Obesity,155,93,90,39.3,70,140,Worsened,1
+45557,M,48,2024-04-30,Ischemic Heart Disease,F32,ACE inhibitors,,169,80,77,36.9,175,217,Worsened,0
+12897,M,44,2024-05-05,Ischemic Heart Disease,E11,ACE inhibitors,Obesity,109,62,109,38.1,116,201,Worsened,0
+34305,F,42,2019-01-13,Asthma,E11,Beta-blockers,Anemia,137,72,112,38.9,109,159,Improved,1
+93323,M,30,2024-01-09,Hypertension,N18,Physical therapy,Hyperlipidemia,120,105,72,36.7,102,268,Worsened,0
+5325,M,22,2024-02-12,Depression,J44,Beta-blockers,,165,91,116,36.6,81,229,Worsened,0
+52926,M,54,2016-07-03,Chronic Kidney Disease,M19,ACE inhibitors,Sleep Apnea,136,77,98,36.7,106,232,Worsened,0
+62865,F,30,2018-03-30,COPD,I25,Antidepressants,Anemia,131,65,92,36.0,97,201,Stable,1
+8019,M,44,2024-09-09,Asthma,J44,Physical therapy,Obesity,117,64,99,38.0,101,241,Worsened,0
+82945,M,76,2016-09-17,Depression,J45,Insulin,Obesity,130,76,67,36.8,141,244,Stable,1
+90377,M,33,2019-03-09,Asthma,E11,ACE inhibitors,Sleep Apnea,127,101,104,38.5,137,204,Stable,0
+41721,M,80,2020-11-26,Diabetes Mellitus,N18,Physical therapy,,174,103,91,38.7,117,187,Stable,0
+867,M,23,2020-06-24,Depression,J44,Lifestyle changes,Anemia,159,89,115,38.2,92,193,Worsened,1
+98444,M,53,2022-10-15,COPD,M19,Lifestyle changes,Sleep Apnea,176,105,99,36.6,157,196,Worsened,1
+83040,M,78,2015-10-27,COPD,M19,Physical therapy,Obesity,171,102,86,38.6,148,132,Worsened,1
+13925,F,72,2018-03-04,Asthma,J45,ACE inhibitors,Obesity,101,103,89,36.7,115,215,Stable,1
+79893,M,72,2018-01-21,Chronic Kidney Disease,N18,Lifestyle changes,Smoking,104,93,107,36.9,119,200,Improved,1
+31184,M,43,2025-06-20,COPD,E11,Beta-blockers,Hyperlipidemia,113,98,62,38.5,194,134,Worsened,0
+13800,M,61,2017-08-21,Hypertension,J44,Antidepressants,Obesity,168,84,101,37.3,172,162,Stable,1
+40989,F,77,2017-06-25,Hypertension,M19,Inhalers,Anemia,152,94,95,37.0,117,234,Worsened,0
+66734,M,60,2025-03-15,Depression,J45,Lifestyle changes,Sleep Apnea,174,98,56,36.3,167,176,Improved,1
+78331,M,53,2017-06-29,Depression,J44,Beta-blockers,Obesity,169,76,110,37.2,119,166,Stable,1
+24379,M,78,2020-11-01,Hypertension,J45,Physical therapy,Smoking,150,103,105,38.2,163,168,Worsened,1
+23415,F,79,2017-03-25,Osteoarthritis,M19,Inhalers,Hyperlipidemia,146,68,62,37.1,81,182,Worsened,1
+97560,F,60,2015-11-19,Osteoarthritis,J45,ACE inhibitors,,111,73,103,39.2,139,231,Improved,0
+22993,F,84,2020-03-03,Depression,I25,Inhalers,Hyperlipidemia,102,92,83,39.4,134,219,Worsened,1
+3232,M,46,2021-03-06,Diabetes Mellitus,M19,Insulin,Smoking,106,87,88,36.2,151,207,Worsened,0
+41996,M,53,2020-02-12,Ischemic Heart Disease,F32,Dialysis,,178,85,103,37.2,188,183,Improved,1
+49188,F,74,2016-11-11,Asthma,E11,Antidepressants,Smoking,144,94,74,38.8,168,139,Worsened,1
+22515,M,48,2021-09-23,Depression,F32,ACE inhibitors,,155,78,85,37.8,77,180,Worsened,0
+21326,F,67,2017-03-17,Asthma,F32,Insulin,Sleep Apnea,128,88,113,37.3,128,248,Improved,0
+86234,F,46,2016-08-17,Asthma,E11,Lifestyle changes,Sleep Apnea,157,104,90,38.9,79,150,Worsened,0
+88127,F,65,2020-06-16,Ischemic Heart Disease,J44,Dialysis,Sleep Apnea,138,61,78,37.2,137,199,Stable,1
+29824,M,33,2021-07-25,Hypertension,M19,Dialysis,Hyperlipidemia,123,69,100,36.7,152,189,Improved,0
+92485,M,49,2023-04-14,Diabetes Mellitus,I25,Beta-blockers,,134,98,71,38.2,116,142,Improved,0
+68425,M,52,2023-05-09,Hypertension,J45,Lifestyle changes,Hyperlipidemia,110,72,104,39.1,92,262,Stable,0
+64484,M,45,2021-06-13,Chronic Kidney Disease,N18,Beta-blockers,Obesity,139,64,63,37.1,140,143,Improved,0
+51020,F,82,2017-05-21,Chronic Kidney Disease,M19,ACE inhibitors,Smoking,113,60,108,37.0,96,157,Worsened,1
+26754,F,39,2018-12-12,Ischemic Heart Disease,N18,ACE inhibitors,Sleep Apnea,134,60,102,38.4,164,170,Improved,1
+49964,M,64,2020-01-28,Diabetes Mellitus,J44,Lifestyle changes,Anemia,125,81,79,37.8,197,152,Worsened,1
+42732,M,54,2022-03-19,Hypertension,N18,Antidepressants,,170,62,98,37.5,148,151,Improved,0
+29057,M,18,2021-12-07,Hypertension,M19,Antidepressants,Smoking,115,97,88,38.2,117,149,Worsened,0
+55318,F,67,2019-02-20,Hypertension,F32,Insulin,Sleep Apnea,179,78,91,37.6,109,233,Stable,1
+35497,F,29,2017-01-21,Osteoarthritis,I25,Inhalers,Sleep Apnea,125,73,86,39.2,161,186,Stable,1
+56338,F,48,2019-06-08,Diabetes Mellitus,J44,Physical therapy,,146,85,98,39.0,139,214,Worsened,0
+79278,F,46,2025-06-10,Asthma,J45,ACE inhibitors,Smoking,169,110,62,36.2,99,134,Worsened,1
+5465,F,42,2019-01-09,Diabetes Mellitus,J45,ACE inhibitors,Anemia,123,106,110,37.7,178,156,Stable,1
+70156,M,34,2016-12-27,Diabetes Mellitus,J45,Antidepressants,,167,74,61,38.0,106,253,Worsened,1
+70670,M,83,2019-06-16,Ischemic Heart Disease,I25,Lifestyle changes,Anemia,107,84,102,36.8,76,245,Worsened,0
+56014,M,31,2019-09-04,Asthma,E11,Dialysis,Smoking,171,95,59,39.0,143,161,Improved,0
+12086,M,77,2023-07-29,Asthma,I25,Dialysis,Obesity,162,98,115,38.4,131,202,Worsened,1
+56819,F,83,2016-07-11,Chronic Kidney Disease,E11,Inhalers,,171,106,63,38.8,124,232,Improved,1
+20001,M,72,2025-03-26,Asthma,J45,ACE inhibitors,Obesity,145,106,77,39.2,82,226,Improved,1
+69067,M,53,2019-07-09,Osteoarthritis,I10,Antidepressants,Obesity,153,63,75,36.9,76,258,Stable,0
+50453,M,27,2025-05-16,Diabetes Mellitus,E11,ACE inhibitors,Obesity,176,73,73,39.1,105,175,Worsened,0
+90710,F,19,2019-08-27,Hypertension,E11,Physical therapy,,137,64,87,36.3,127,140,Worsened,0
+52885,M,68,2016-09-18,Depression,E11,Physical therapy,,135,92,105,36.9,185,252,Worsened,1
+30964,M,43,2020-11-12,Ischemic Heart Disease,J45,Insulin,Obesity,171,107,66,36.7,123,266,Worsened,0
+34574,F,61,2025-03-25,Depression,I10,Antidepressants,Sleep Apnea,125,71,76,38.5,83,256,Stable,1
+15295,M,84,2020-12-10,COPD,F32,Dialysis,Sleep Apnea,140,67,80,38.5,174,259,Improved,1
+27919,F,66,2016-08-07,Hypertension,J44,Beta-blockers,Obesity,114,94,113,37.0,106,262,Stable,0
+46121,M,26,2016-12-03,Ischemic Heart Disease,I10,Lifestyle changes,Sleep Apnea,113,61,78,37.6,187,177,Worsened,0
+35074,M,20,2023-08-19,Diabetes Mellitus,I10,ACE inhibitors,,158,100,114,36.5,72,243,Stable,0
+10551,M,46,2019-09-21,Chronic Kidney Disease,I10,Physical therapy,Anemia,110,80,75,38.2,84,167,Worsened,1
+91128,F,69,2016-04-18,Chronic Kidney Disease,J45,Inhalers,,118,60,111,36.8,185,221,Worsened,0
+691,M,86,2018-10-15,Asthma,F32,Antidepressants,,127,93,74,39.3,129,265,Worsened,0
+77730,M,35,2018-04-27,Hypertension,M19,Dialysis,,179,94,66,38.3,150,236,Improved,0
+36097,F,62,2019-08-21,Asthma,I10,Lifestyle changes,Obesity,175,108,119,38.4,118,246,Improved,0
+65352,F,68,2022-08-01,Asthma,I10,Insulin,Anemia,168,85,95,39.4,134,152,Stable,1
+11041,M,24,2021-08-05,Diabetes Mellitus,F32,Lifestyle changes,,134,100,90,36.9,179,185,Worsened,0
+4222,M,60,2022-05-27,Asthma,I10,Physical therapy,Obesity,146,71,107,38.8,195,154,Improved,1
+822,F,66,2023-06-26,Hypertension,E11,Physical therapy,Hyperlipidemia,173,106,56,36.9,161,246,Worsened,1
+38129,F,25,2016-08-12,Ischemic Heart Disease,N18,Lifestyle changes,Smoking,175,75,90,37.2,189,157,Worsened,0
+89152,F,68,2016-09-25,Depression,N18,ACE inhibitors,Sleep Apnea,143,77,117,38.9,142,260,Worsened,1
+29232,M,46,2018-07-14,COPD,J44,Inhalers,Obesity,142,92,72,38.7,105,194,Worsened,1
+50557,M,28,2017-08-03,Hypertension,N18,Inhalers,Anemia,138,73,57,38.0,192,279,Stable,0
+33685,F,85,2023-10-21,Chronic Kidney Disease,I10,Antidepressants,Hyperlipidemia,179,101,120,37.1,140,256,Stable,0
+58754,M,89,2025-02-18,Chronic Kidney Disease,M19,Physical therapy,Smoking,162,75,114,38.1,130,159,Worsened,1
+27023,M,64,2019-01-14,Diabetes Mellitus,I25,Beta-blockers,Anemia,122,79,93,37.5,182,279,Improved,1
+36906,M,79,2023-02-10,Hypertension,E11,Lifestyle changes,Anemia,118,60,56,38.1,166,145,Stable,0
+271,F,88,2021-07-26,Diabetes Mellitus,I25,Insulin,Anemia,120,61,109,37.1,75,147,Stable,0
+8867,M,86,2021-05-30,Osteoarthritis,M19,ACE inhibitors,Obesity,114,102,98,39.4,167,193,Worsened,0
+15007,M,59,2022-05-24,COPD,F32,Dialysis,Sleep Apnea,131,86,86,36.0,166,150,Worsened,0
+4689,M,21,2017-07-13,Chronic Kidney Disease,I25,Dialysis,Sleep Apnea,141,98,100,37.8,117,199,Stable,0
+81996,F,54,2024-04-10,Ischemic Heart Disease,J45,Antidepressants,Anemia,164,103,104,37.2,149,175,Stable,0
+84373,M,25,2021-09-03,Diabetes Mellitus,N18,Lifestyle changes,Sleep Apnea,176,107,109,36.4,89,183,Improved,0
+2515,F,18,2020-10-19,Diabetes Mellitus,J44,Antidepressants,Obesity,101,109,117,39.3,200,170,Stable,1
+36400,M,19,2023-05-25,Chronic Kidney Disease,J44,Insulin,Smoking,123,72,114,38.8,146,172,Worsened,0
+38869,M,60,2019-05-20,Diabetes Mellitus,I25,Insulin,,173,81,75,36.6,176,191,Stable,1
+58245,M,32,2017-08-03,Diabetes Mellitus,I10,Physical therapy,,125,83,65,38.1,82,224,Improved,1
+30410,F,57,2024-06-13,Depression,J45,Insulin,Sleep Apnea,116,74,84,38.1,115,187,Stable,0
+54795,M,59,2020-12-23,Diabetes Mellitus,E11,Dialysis,Hyperlipidemia,165,66,107,39.5,103,260,Improved,1
+19264,M,88,2020-11-06,Ischemic Heart Disease,I10,Physical therapy,Smoking,169,80,120,38.2,191,206,Worsened,0
+83910,M,71,2025-02-10,Depression,F32,ACE inhibitors,Sleep Apnea,103,84,66,37.9,198,150,Improved,1
+26974,F,58,2018-08-11,Depression,F32,ACE inhibitors,Obesity,172,77,90,37.3,195,186,Stable,0
+7130,F,51,2022-09-03,Asthma,M19,Lifestyle changes,Hyperlipidemia,131,108,72,38.0,76,190,Stable,1
+7145,M,38,2016-03-14,Hypertension,I25,Lifestyle changes,Smoking,165,79,102,39.4,88,213,Worsened,0
+45466,F,73,2025-06-02,Chronic Kidney Disease,I10,Inhalers,Sleep Apnea,170,70,100,37.1,187,255,Improved,1
+1967,F,19,2018-11-16,COPD,F32,Inhalers,Anemia,176,102,70,37.7,159,250,Stable,0
+15153,M,67,2019-12-11,Asthma,F32,Physical therapy,Sleep Apnea,146,63,72,39.3,153,147,Improved,1
+19114,M,53,2019-11-06,Hypertension,I10,Lifestyle changes,Hyperlipidemia,112,63,110,39.4,148,176,Stable,0
+76207,M,77,2018-08-16,Osteoarthritis,F32,Antidepressants,Smoking,120,98,114,38.0,119,147,Worsened,1
+32142,M,65,2020-05-20,COPD,I25,Physical therapy,Sleep Apnea,126,60,91,39.3,120,265,Worsened,0
+21935,M,79,2018-08-28,Diabetes Mellitus,N18,Antidepressants,Obesity,123,103,105,36.1,94,133,Worsened,1
+40360,M,65,2021-03-09,Osteoarthritis,I25,Lifestyle changes,Obesity,105,106,68,36.7,86,222,Stable,1
+53842,M,83,2021-03-25,Chronic Kidney Disease,J44,Dialysis,Anemia,152,98,94,36.0,110,267,Improved,0
+9163,F,83,2015-07-25,COPD,M19,Lifestyle changes,Anemia,126,94,97,37.8,196,183,Worsened,1
+87844,M,51,2019-11-11,Diabetes Mellitus,I25,ACE inhibitors,Sleep Apnea,173,73,87,37.3,79,260,Stable,0
+37630,M,56,2021-08-31,COPD,E11,ACE inhibitors,Anemia,178,110,110,37.7,144,220,Improved,0
+83305,F,63,2020-08-02,Asthma,F32,Antidepressants,Sleep Apnea,127,110,99,37.6,168,272,Improved,0
+66270,F,27,2020-08-07,Chronic Kidney Disease,M19,Dialysis,Obesity,152,69,113,39.5,137,133,Worsened,1
+34654,M,80,2019-07-22,Depression,I25,Physical therapy,Obesity,102,72,65,37.3,184,217,Stable,0
+41963,M,30,2020-07-14,Asthma,I10,Beta-blockers,Anemia,139,66,92,36.5,162,142,Stable,0
+39591,F,49,2018-01-06,Hypertension,F32,Inhalers,Sleep Apnea,148,97,116,37.5,108,213,Improved,0
+81036,F,24,2021-12-31,Chronic Kidney Disease,M19,Antidepressants,Smoking,155,71,98,39.4,185,248,Stable,0
+10981,F,26,2024-01-10,Ischemic Heart Disease,I10,Beta-blockers,Hyperlipidemia,143,76,76,38.1,184,177,Worsened,0
+56300,F,54,2021-03-22,Depression,I25,Beta-blockers,Anemia,108,91,111,37.7,158,209,Worsened,1
+61549,F,37,2023-05-07,Osteoarthritis,N18,ACE inhibitors,,138,85,109,36.3,78,139,Improved,0
+88401,M,57,2017-01-10,Ischemic Heart Disease,M19,Physical therapy,Hyperlipidemia,129,110,94,36.7,162,225,Stable,0
+44324,M,47,2019-07-02,COPD,E11,Insulin,Sleep Apnea,139,86,66,37.6,147,231,Stable,1
+55208,M,58,2017-02-01,Asthma,N18,Physical therapy,Obesity,118,77,103,36.2,154,192,Stable,0
+53528,M,28,2020-01-18,Chronic Kidney Disease,E11,Antidepressants,,152,68,112,38.8,152,172,Improved,0
+26971,M,75,2021-12-22,Depression,E11,Dialysis,Sleep Apnea,143,103,68,39.4,171,245,Worsened,0
+73218,M,26,2019-02-27,Depression,N18,Antidepressants,Sleep Apnea,149,90,67,38.5,142,197,Improved,0
+65891,F,78,2022-05-06,COPD,I25,Beta-blockers,Sleep Apnea,154,84,71,37.1,156,199,Worsened,0
+42222,M,75,2016-07-23,Hypertension,N18,Lifestyle changes,Hyperlipidemia,100,108,116,38.3,112,200,Stable,0
+97866,M,45,2025-01-31,Depression,M19,Antidepressants,Anemia,137,84,111,39.1,126,233,Stable,0
+12251,M,30,2023-06-26,Chronic Kidney Disease,N18,ACE inhibitors,Sleep Apnea,153,75,99,38.8,110,256,Stable,0
+69437,F,69,2016-06-07,Depression,N18,ACE inhibitors,Smoking,161,76,59,37.8,81,191,Stable,0
+38433,M,38,2015-12-26,Osteoarthritis,I25,Antidepressants,Obesity,165,106,71,37.3,103,172,Stable,0
+7130,F,51,2022-09-03,Asthma,M19,Lifestyle changes,Hyperlipidemia,131,108,72,38.0,76,190,Stable,1
+40890,F,67,2025-04-25,Diabetes Mellitus,E11,Lifestyle changes,Hyperlipidemia,138,92,87,38.3,141,244,Worsened,1
+30999,M,54,2020-02-23,Ischemic Heart Disease,N18,Physical therapy,Hyperlipidemia,173,72,71,37.9,80,247,Stable,1
+56146,F,52,2020-12-18,Asthma,J45,ACE inhibitors,Sleep Apnea,104,69,66,36.0,125,170,Worsened,1
+95414,F,71,2018-01-05,Asthma,N18,Insulin,,100,98,107,37.7,178,136,Worsened,1
+22156,F,19,2019-08-17,COPD,M19,Inhalers,Obesity,136,85,60,36.4,137,160,Improved,1
+17614,F,37,2021-12-11,Hypertension,J45,Lifestyle changes,Anemia,174,96,74,36.3,103,165,Worsened,0
+56444,F,31,2022-05-11,Asthma,J44,Physical therapy,Obesity,126,96,67,37.8,116,244,Worsened,0
+98400,M,30,2017-05-15,Chronic Kidney Disease,M19,Dialysis,Smoking,154,75,80,36.1,177,224,Worsened,0
+24053,M,79,2018-07-29,Asthma,M19,Insulin,Hyperlipidemia,101,65,112,39.4,134,185,Improved,1
+50243,M,79,2020-09-26,Osteoarthritis,I10,Physical therapy,Sleep Apnea,166,76,55,37.0,152,156,Stable,0
+58999,M,84,2017-12-14,COPD,J44,Dialysis,Sleep Apnea,102,110,95,38.2,127,203,Worsened,0
+31345,M,29,2016-05-14,Depression,M19,Physical therapy,Anemia,118,83,97,37.5,91,241,Stable,0
+61242,M,18,2016-03-08,Diabetes Mellitus,J45,ACE inhibitors,Hyperlipidemia,134,84,70,37.3,179,133,Stable,0
+92530,M,59,2018-12-25,Ischemic Heart Disease,J45,Insulin,,160,92,70,39.1,103,197,Worsened,1
+80829,F,89,2016-09-27,Chronic Kidney Disease,N18,Antidepressants,,156,99,118,38.9,168,183,Worsened,1
+51726,F,58,2020-12-30,Hypertension,J44,Physical therapy,Anemia,106,106,84,39.3,178,159,Improved,1
+33880,F,30,2019-12-19,Ischemic Heart Disease,E11,Physical therapy,Obesity,102,61,80,36.7,168,197,Improved,0
+7130,F,51,2022-09-03,Asthma,M19,Lifestyle changes,Hyperlipidemia,131,108,72,38.0,76,190,Stable,1
+83007,M,69,2018-01-09,Hypertension,J45,Insulin,Smoking,159,67,79,36.3,129,269,Stable,1
+73909,M,88,2019-12-12,Osteoarthritis,N18,Antidepressants,Anemia,141,93,101,36.9,101,136,Stable,1
+67247,F,76,2021-09-12,Osteoarthritis,M19,Antidepressants,Smoking,178,101,103,38.0,113,279,Improved,1
+88808,F,54,2021-10-30,Asthma,M19,Antidepressants,Hyperlipidemia,157,106,79,37.1,80,189,Improved,0
+13122,F,44,2024-01-10,Depression,I25,Antidepressants,Anemia,110,104,57,36.7,120,178,Improved,1
+8258,M,89,2018-06-06,Hypertension,E11,ACE inhibitors,Smoking,163,75,118,37.7,79,234,Improved,0
+93381,F,29,2022-12-05,Ischemic Heart Disease,I10,Insulin,,152,90,108,36.4,187,143,Improved,0
+13915,M,63,2018-04-09,Hypertension,J44,Dialysis,Hyperlipidemia,144,88,61,36.4,200,256,Improved,1
+30903,M,29,2018-01-13,Osteoarthritis,M19,Beta-blockers,Obesity,147,80,75,39.2,184,192,Stable,1
+72859,F,57,2017-02-04,Diabetes Mellitus,I25,Beta-blockers,Smoking,168,91,116,39.4,94,237,Worsened,0
+20293,M,71,2018-06-14,COPD,J45,ACE inhibitors,,140,84,85,36.1,76,148,Stable,1
+58171,F,66,2015-07-22,Ischemic Heart Disease,M19,Physical therapy,Hyperlipidemia,157,87,87,36.8,128,216,Stable,1
+20950,F,59,2015-07-29,Depression,I10,Physical therapy,Anemia,139,106,107,36.9,175,142,Improved,1
+36695,M,50,2017-01-19,Ischemic Heart Disease,J44,Beta-blockers,Sleep Apnea,157,60,88,39.3,101,159,Improved,1
+8526,M,32,2025-05-01,Chronic Kidney Disease,I25,Inhalers,Smoking,132,66,104,37.1,107,221,Improved,1
+78272,M,73,2021-08-06,Depression,I25,Physical therapy,Hyperlipidemia,146,83,88,38.2,185,239,Stable,1
+77403,M,38,2018-02-10,Chronic Kidney Disease,E11,Physical therapy,Smoking,156,87,109,38.5,115,176,Improved,0
+77652,F,36,2018-05-11,Ischemic Heart Disease,M19,Beta-blockers,Anemia,172,109,106,38.6,102,224,Stable,0
+99837,M,42,2017-07-26,Hypertension,I10,Beta-blockers,Sleep Apnea,107,84,113,37.0,112,203,Improved,0
+92272,F,50,2021-04-23,Asthma,J44,ACE inhibitors,Obesity,164,79,64,38.1,187,136,Improved,0
+29776,F,36,2021-11-16,Hypertension,I10,Antidepressants,Obesity,153,83,78,36.3,126,173,Worsened,0
+34808,M,64,2017-03-29,Chronic Kidney Disease,J45,Lifestyle changes,,129,88,77,37.1,128,246,Stable,1
+16886,F,24,2020-07-06,Diabetes Mellitus,M19,ACE inhibitors,Anemia,103,104,110,39.3,186,242,Improved,1
+88808,F,54,2021-10-30,Asthma,M19,Antidepressants,Hyperlipidemia,157,106,79,37.1,80,189,Improved,0
+49984,F,73,2025-03-17,Asthma,J45,Insulin,,176,68,106,39.3,197,245,Improved,0
+62615,M,31,2024-08-18,Osteoarthritis,J45,ACE inhibitors,Obesity,134,64,90,36.5,152,170,Worsened,0
+14229,M,60,2022-06-28,Asthma,F32,Antidepressants,,146,96,97,37.4,87,246,Stable,0
+52177,M,67,2017-12-10,Diabetes Mellitus,I25,Antidepressants,Smoking,112,63,89,36.3,168,235,Improved,1
+8029,F,50,2016-04-20,Diabetes Mellitus,N18,Inhalers,Sleep Apnea,106,71,76,36.4,107,205,Worsened,0
+28922,M,79,2022-11-16,Hypertension,E11,Dialysis,Sleep Apnea,108,74,66,39.4,196,276,Worsened,0
+69420,M,80,2016-11-27,Chronic Kidney Disease,N18,Antidepressants,Obesity,173,109,68,37.9,74,273,Worsened,0
+70812,M,82,2020-02-15,Asthma,M19,ACE inhibitors,Obesity,171,69,64,39.4,110,236,Stable,1
+34364,F,73,2024-05-15,Chronic Kidney Disease,M19,Insulin,,131,72,85,38.8,151,224,Improved,0
+43204,M,19,2015-12-20,Diabetes Mellitus,M19,Dialysis,,157,67,110,38.1,100,150,Stable,0
+36795,M,28,2024-06-28,Osteoarthritis,M19,Lifestyle changes,Obesity,111,69,113,39.3,76,131,Stable,1
+97027,F,87,2025-02-27,Asthma,I25,Insulin,,122,92,73,36.3,158,151,Stable,1
+63343,F,80,2019-01-28,Hypertension,E11,Beta-blockers,,145,85,117,36.4,122,144,Stable,1
+36956,M,24,2019-08-20,Osteoarthritis,M19,Lifestyle changes,Anemia,111,60,87,36.1,115,235,Worsened,0
+69229,F,62,2020-09-08,Hypertension,N18,ACE inhibitors,Obesity,136,73,69,37.1,184,269,Improved,1
+9424,M,43,2019-02-03,Hypertension,F32,ACE inhibitors,Sleep Apnea,134,80,106,39.1,89,183,Stable,1
+86001,M,53,2017-06-26,Asthma,J44,Lifestyle changes,,103,65,119,37.0,161,278,Worsened,0
+16959,M,88,2024-06-04,Chronic Kidney Disease,N18,Dialysis,Anemia,168,105,69,36.0,196,249,Worsened,1
+21615,M,66,2021-12-28,Asthma,J44,Lifestyle changes,Sleep Apnea,140,82,82,37.8,79,166,Stable,1
+61462,F,20,2019-03-13,Asthma,E11,Insulin,Anemia,107,105,119,37.4,100,161,Stable,0
+61774,M,26,2022-11-09,Hypertension,J44,ACE inhibitors,Smoking,169,96,73,37.2,100,269,Stable,1
+86802,F,51,2021-01-08,Depression,J45,Inhalers,Hyperlipidemia,157,83,97,36.7,93,253,Worsened,0
+67503,F,32,2024-04-21,Hypertension,E11,Lifestyle changes,,116,93,86,36.6,76,179,Stable,0
+79371,M,85,2017-02-04,COPD,M19,Antidepressants,Hyperlipidemia,164,95,89,38.2,122,209,Improved,1
+34497,M,61,2018-06-07,Chronic Kidney Disease,E11,Physical therapy,Anemia,115,69,92,36.5,143,167,Worsened,0
+43009,F,25,2021-11-29,Depression,E11,Insulin,Anemia,124,80,117,38.8,112,159,Worsened,0
+91598,F,34,2025-04-04,Osteoarthritis,E11,Dialysis,Hyperlipidemia,150,69,81,37.4,131,221,Improved,1
+75439,F,73,2021-05-20,Asthma,F32,ACE inhibitors,,172,71,88,39.3,88,177,Worsened,1
+29720,M,24,2022-04-08,Chronic Kidney Disease,J45,Physical therapy,Sleep Apnea,104,102,60,36.4,71,253,Worsened,0
+38607,F,47,2022-03-17,Diabetes Mellitus,F32,ACE inhibitors,,164,99,94,38.1,150,227,Improved,0
+77127,M,68,2018-01-03,Depression,F32,Antidepressants,Smoking,162,61,85,38.7,79,180,Stable,1
+97088,M,26,2023-06-08,Chronic Kidney Disease,J45,Inhalers,Hyperlipidemia,142,96,64,36.5,149,150,Stable,1
+24627,F,47,2018-09-11,Hypertension,I10,Dialysis,Sleep Apnea,129,71,117,36.6,196,206,Worsened,1
+61815,F,74,2018-03-24,COPD,I25,Antidepressants,Smoking,165,102,90,39.1,77,204,Stable,1
+69756,F,21,2022-11-30,Osteoarthritis,E11,Physical therapy,Sleep Apnea,135,83,93,39.2,143,204,Improved,0
+11931,F,39,2019-01-02,Ischemic Heart Disease,J45,Insulin,Sleep Apnea,180,65,95,36.9,185,262,Improved,1
+16161,M,18,2019-12-04,Asthma,I10,Beta-blockers,Anemia,162,110,100,38.9,147,169,Stable,0
+47440,F,43,2018-06-09,Ischemic Heart Disease,F32,Dialysis,,121,97,81,39.1,122,150,Stable,1
+34606,M,81,2019-06-08,Asthma,M19,Beta-blockers,Smoking,133,65,63,36.2,166,180,Worsened,1
+14107,F,51,2022-07-08,Hypertension,N18,Inhalers,,122,65,100,39.2,159,218,Stable,1
+90651,F,46,2024-11-28,COPD,F32,Insulin,Sleep Apnea,162,89,108,38.3,72,192,Worsened,1
+98435,M,74,2018-06-12,Osteoarthritis,J45,Antidepressants,Hyperlipidemia,138,64,102,38.2,197,207,Improved,0
+17503,M,24,2023-10-08,Chronic Kidney Disease,I10,Dialysis,Smoking,116,72,112,38.1,126,173,Stable,1
+63486,M,89,2021-01-23,Asthma,F32,Lifestyle changes,Sleep Apnea,168,109,111,37.7,139,244,Worsened,0
+33076,M,73,2017-08-05,Diabetes Mellitus,E11,ACE inhibitors,Sleep Apnea,165,61,107,36.1,71,163,Stable,1
+79809,M,25,2021-11-18,Diabetes Mellitus,I25,Dialysis,Obesity,150,60,72,37.8,160,183,Improved,1
+90791,M,31,2017-05-22,Ischemic Heart Disease,N18,Insulin,Anemia,122,86,112,37.8,110,263,Worsened,0
+93365,F,59,2021-12-15,Asthma,M19,Dialysis,,147,88,75,36.9,185,162,Worsened,1
+18293,M,38,2024-03-20,Ischemic Heart Disease,I10,Physical therapy,Smoking,102,107,59,36.2,183,229,Stable,0
+43850,F,26,2019-11-16,Chronic Kidney Disease,M19,Inhalers,Smoking,144,72,67,36.2,101,242,Worsened,0
+35068,M,67,2017-06-24,Osteoarthritis,J44,Insulin,Hyperlipidemia,174,73,94,36.4,125,256,Worsened,0
+61393,F,43,2017-03-30,Chronic Kidney Disease,I10,Antidepressants,Sleep Apnea,113,82,98,37.1,89,244,Worsened,1
+27382,F,71,2024-05-28,Diabetes Mellitus,I25,Dialysis,Anemia,135,66,110,36.1,136,219,Stable,0
+85414,M,32,2020-09-13,COPD,M19,Insulin,Hyperlipidemia,103,98,66,39.3,96,247,Stable,0
+13798,M,22,2018-02-07,Chronic Kidney Disease,I25,Lifestyle changes,Anemia,146,79,106,37.8,163,191,Improved,0
+1729,F,44,2023-01-01,Osteoarthritis,F32,Lifestyle changes,Sleep Apnea,149,74,108,36.7,151,228,Improved,1
+66101,F,35,2021-10-29,Asthma,J44,Inhalers,,147,86,83,38.7,71,199,Stable,1
+7678,F,56,2020-11-25,Asthma,E11,Dialysis,Smoking,180,64,115,37.3,119,210,Improved,0
+73315,M,69,2021-05-07,Diabetes Mellitus,F32,Antidepressants,Sleep Apnea,151,80,69,36.5,169,135,Improved,1
+69696,F,56,2021-11-26,Depression,E11,Beta-blockers,,115,77,79,38.9,136,276,Worsened,0
+5439,M,42,2020-09-22,Depression,E11,Physical therapy,,138,60,107,39.2,92,150,Worsened,1
+73381,M,71,2016-08-17,Chronic Kidney Disease,J44,Inhalers,,169,107,89,39.4,74,161,Worsened,1
+34591,M,24,2017-09-24,Asthma,F32,Inhalers,Sleep Apnea,146,104,68,36.1,184,254,Worsened,1
+8453,F,61,2023-07-12,Asthma,M19,Insulin,Hyperlipidemia,111,68,118,38.7,155,269,Worsened,0
+6235,M,36,2024-12-02,Depression,N18,Lifestyle changes,Anemia,154,96,88,38.7,109,171,Worsened,1
+56580,M,40,2023-07-25,Osteoarthritis,J44,Physical therapy,Sleep Apnea,119,80,116,39.2,184,224,Worsened,0
+44069,F,69,2019-09-01,Hypertension,J44,Inhalers,Hyperlipidemia,120,63,111,37.2,95,259,Improved,0
+73662,M,85,2024-01-12,Depression,E11,Antidepressants,Obesity,138,69,119,36.9,108,257,Improved,1
+18242,M,46,2018-05-26,Depression,E11,Beta-blockers,Hyperlipidemia,123,104,61,36.5,157,238,Worsened,0
+72560,F,19,2017-10-06,Diabetes Mellitus,J45,Antidepressants,Obesity,111,105,90,38.8,159,265,Improved,0
+11373,F,87,2015-12-19,Hypertension,M19,Beta-blockers,Obesity,180,86,95,37.1,99,193,Improved,1
+53068,M,77,2021-07-20,Osteoarthritis,J44,Inhalers,Smoking,115,85,65,37.6,192,194,Stable,1
+54397,M,58,2025-02-27,Hypertension,F32,Antidepressants,,110,65,95,37.0,189,278,Worsened,0
+60744,F,89,2018-01-16,Diabetes Mellitus,J44,Physical therapy,Smoking,158,97,67,37.0,140,178,Worsened,1
+4233,F,66,2023-01-15,Asthma,N18,Dialysis,Obesity,175,95,97,36.4,130,169,Worsened,0
+66150,F,90,2022-01-26,Osteoarthritis,J45,Lifestyle changes,Obesity,100,110,88,36.2,128,261,Worsened,1
+227,F,57,2024-05-25,Diabetes Mellitus,J45,Beta-blockers,Smoking,123,110,78,36.2,148,270,Improved,1
+38051,F,26,2019-04-14,Depression,I25,Antidepressants,Hyperlipidemia,135,101,86,36.1,91,148,Improved,1
+75831,M,43,2020-03-03,Diabetes Mellitus,J44,Physical therapy,Smoking,163,74,56,37.8,143,175,Stable,1
+11713,M,74,2021-08-30,Asthma,I25,ACE inhibitors,Smoking,125,70,78,38.2,177,243,Stable,1
+89799,M,69,2018-04-12,Chronic Kidney Disease,J44,Dialysis,Smoking,138,109,79,38.7,143,189,Improved,0
+84722,M,56,2021-08-17,Chronic Kidney Disease,M19,Insulin,Sleep Apnea,116,99,88,38.1,75,236,Stable,1
+11651,F,25,2018-01-29,Depression,J45,Antidepressants,Sleep Apnea,161,82,83,37.6,199,154,Improved,1
+63793,M,46,2020-07-20,Osteoarthritis,I10,Dialysis,Hyperlipidemia,125,109,78,39.1,166,210,Improved,0
+18332,F,46,2020-04-16,Diabetes Mellitus,M19,Beta-blockers,Hyperlipidemia,129,84,118,38.8,106,169,Worsened,1
+59465,F,88,2024-01-24,COPD,F32,Physical therapy,Anemia,164,68,116,37.3,185,184,Worsened,0
+31839,F,51,2020-11-17,Osteoarthritis,J45,Physical therapy,Smoking,116,68,77,39.3,194,260,Improved,0
+35888,M,31,2017-07-23,Ischemic Heart Disease,E11,Physical therapy,Smoking,168,67,68,36.9,115,171,Stable,1
+70558,F,27,2024-02-14,COPD,I10,Inhalers,Obesity,126,108,84,38.0,168,272,Stable,0
+68842,M,55,2015-11-15,Osteoarthritis,I10,Beta-blockers,Smoking,145,65,82,37.2,117,202,Stable,1
+44300,F,73,2019-10-18,Osteoarthritis,J44,Antidepressants,Sleep Apnea,115,99,89,36.1,104,264,Stable,0
+39432,F,28,2021-01-10,Diabetes Mellitus,J44,Insulin,Sleep Apnea,169,110,116,38.7,179,149,Improved,0
+71758,F,30,2023-10-04,Osteoarthritis,I25,Physical therapy,Smoking,143,96,108,37.6,163,133,Stable,1
+51267,F,48,2023-07-14,Depression,E11,Beta-blockers,Hyperlipidemia,176,97,59,38.1,170,186,Improved,1
+49809,F,49,2025-05-02,Chronic Kidney Disease,N18,Physical therapy,,130,108,117,37.9,180,222,Worsened,1
+86689,M,83,2017-03-17,Depression,I25,Lifestyle changes,Smoking,169,79,84,37.4,186,208,Stable,1
+61005,M,39,2016-07-18,Depression,I25,Insulin,Smoking,103,91,57,36.5,105,201,Worsened,1
+60771,M,69,2025-06-05,Asthma,N18,Lifestyle changes,Hyperlipidemia,139,87,107,36.6,148,193,Worsened,0
+88,F,50,2016-11-02,Osteoarthritis,M19,ACE inhibitors,Obesity,103,110,60,36.7,79,227,Stable,1
+77204,F,90,2019-06-30,Chronic Kidney Disease,N18,ACE inhibitors,Hyperlipidemia,121,74,66,38.7,130,133,Stable,1
+51988,M,74,2024-01-20,Diabetes Mellitus,I10,Lifestyle changes,Smoking,137,79,70,38.2,159,224,Worsened,0
+82150,F,90,2022-11-12,Asthma,J44,Inhalers,Obesity,134,62,109,38.9,173,146,Worsened,0
+43734,M,84,2015-08-24,Diabetes Mellitus,I10,Insulin,,147,107,70,38.0,173,274,Worsened,0
+95182,F,75,2015-10-12,Diabetes Mellitus,N18,Beta-blockers,,136,82,56,36.9,108,146,Stable,1
+88477,F,60,2019-01-15,Osteoarthritis,E11,Beta-blockers,Obesity,123,107,110,37.2,96,227,Worsened,1
+62006,M,86,2021-09-10,Hypertension,N18,Dialysis,,135,89,120,38.1,143,279,Stable,0
+30884,F,22,2017-09-16,COPD,E11,Lifestyle changes,Anemia,104,62,115,38.8,158,176,Improved,0
+50767,M,85,2024-02-26,Asthma,J45,Dialysis,Hyperlipidemia,180,71,110,39.3,180,228,Worsened,1
+74956,M,64,2019-04-02,Depression,F32,Antidepressants,Hyperlipidemia,165,72,93,39.1,137,194,Improved,0
+12751,M,18,2021-11-30,Ischemic Heart Disease,I25,Dialysis,,108,93,78,36.2,71,149,Improved,0
+36507,M,88,2024-09-16,Depression,E11,Physical therapy,Smoking,136,93,90,37.2,138,250,Improved,0
+9938,M,22,2017-03-05,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,153,79,64,37.7,98,243,Improved,1
+18374,F,20,2021-12-30,Hypertension,M19,Dialysis,Hyperlipidemia,158,71,93,39.1,147,140,Worsened,1
+92221,F,57,2022-12-18,Asthma,E11,Lifestyle changes,Smoking,111,79,115,36.2,157,183,Worsened,1
+90730,F,42,2021-07-18,Diabetes Mellitus,M19,Lifestyle changes,,177,69,81,37.2,151,203,Improved,1
+12397,F,25,2020-05-03,Hypertension,M19,Inhalers,Hyperlipidemia,161,66,106,36.7,192,203,Stable,1
+94922,M,89,2018-08-08,Hypertension,E11,Inhalers,Sleep Apnea,127,87,82,39.4,178,158,Improved,1
+33802,F,40,2024-05-01,Depression,J45,Antidepressants,Smoking,167,98,101,36.4,118,267,Improved,0
+1231,M,84,2025-02-16,Diabetes Mellitus,E11,Dialysis,Anemia,127,91,84,38.4,149,183,Worsened,0
+20335,F,41,2018-07-26,Asthma,F32,Dialysis,Obesity,108,93,61,37.5,121,156,Stable,0
+78044,M,44,2019-10-27,Osteoarthritis,F32,Inhalers,Hyperlipidemia,131,108,77,37.7,178,229,Improved,0
+40351,M,48,2016-06-29,Ischemic Heart Disease,M19,Dialysis,Sleep Apnea,137,71,99,36.7,109,167,Worsened,1
+50863,M,25,2024-11-24,Asthma,J44,Beta-blockers,Obesity,154,101,105,37.8,96,267,Worsened,1
+65410,M,88,2016-10-31,Diabetes Mellitus,J45,ACE inhibitors,Sleep Apnea,124,97,63,39.1,198,233,Worsened,0
+98466,M,53,2021-01-21,Osteoarthritis,F32,Antidepressants,Sleep Apnea,156,84,117,39.4,134,191,Worsened,1
+83943,M,54,2022-06-18,Asthma,I10,Insulin,Sleep Apnea,166,101,61,36.8,82,267,Stable,1
+35641,M,49,2017-02-04,Depression,F32,Lifestyle changes,Smoking,151,93,102,37.5,149,219,Worsened,1
+76610,M,36,2017-08-24,COPD,F32,Inhalers,Smoking,164,92,98,39.0,131,171,Improved,1
+1046,M,23,2024-09-07,Osteoarthritis,I25,Beta-blockers,Hyperlipidemia,110,79,107,36.1,96,191,Improved,1
+97796,M,81,2025-04-19,Depression,J44,Inhalers,Sleep Apnea,101,71,119,37.1,195,190,Improved,1
+5938,M,60,2020-05-21,Osteoarthritis,M19,ACE inhibitors,Anemia,106,68,71,36.1,88,222,Worsened,0
+57688,M,58,2016-08-21,Osteoarthritis,J44,Inhalers,Smoking,133,74,113,38.7,130,130,Worsened,1
+7896,M,75,2017-06-24,COPD,I25,Insulin,Sleep Apnea,168,94,103,39.3,121,242,Improved,0
+87485,M,26,2021-08-13,COPD,I25,Beta-blockers,Anemia,155,78,63,38.9,131,154,Stable,0
+17571,F,27,2025-06-07,Depression,I10,Lifestyle changes,,103,61,85,38.5,110,224,Stable,0
+53065,F,45,2018-06-20,COPD,N18,Antidepressants,Obesity,159,62,65,37.2,137,170,Improved,1
+11142,F,57,2019-07-29,Depression,I10,Beta-blockers,,136,71,81,38.7,174,214,Stable,1
+96937,F,23,2024-03-18,Ischemic Heart Disease,J44,Lifestyle changes,Obesity,167,60,109,37.7,90,224,Improved,0
+50491,M,68,2024-05-02,COPD,J44,Beta-blockers,Obesity,115,67,118,38.4,199,214,Stable,1
+33223,F,65,2022-05-08,Depression,E11,Lifestyle changes,Smoking,100,74,84,37.2,197,241,Improved,0
+82507,F,69,2020-06-22,Depression,E11,Lifestyle changes,Sleep Apnea,127,96,63,38.2,95,152,Stable,1
+36297,M,60,2018-03-15,Ischemic Heart Disease,I10,Beta-blockers,,177,102,66,38.5,121,163,Stable,1
+67925,M,25,2021-12-18,Hypertension,J45,Insulin,,165,95,77,37.2,186,139,Stable,1
+94405,F,66,2022-12-17,Depression,F32,Insulin,,155,62,110,36.8,103,146,Improved,1
+84993,F,46,2016-01-25,COPD,E11,Antidepressants,Obesity,164,60,108,36.7,70,184,Improved,1
+62123,F,19,2017-11-17,Osteoarthritis,J45,Lifestyle changes,Smoking,173,86,72,39.4,110,153,Improved,1
+65744,F,42,2015-09-10,COPD,M19,Antidepressants,Anemia,136,86,88,37.2,184,147,Stable,0
+40247,F,59,2024-03-18,Ischemic Heart Disease,N18,Insulin,Obesity,158,105,118,37.5,71,230,Improved,1
+16362,M,19,2025-05-25,Depression,I25,Beta-blockers,,130,78,57,37.7,87,150,Stable,1
+55939,M,26,2024-04-13,Chronic Kidney Disease,J44,Beta-blockers,Obesity,137,78,69,36.6,70,142,Improved,1
+28675,M,33,2019-03-29,Depression,I25,ACE inhibitors,,111,64,101,36.7,78,256,Worsened,0
+23958,M,49,2024-08-10,Depression,I10,ACE inhibitors,Smoking,135,91,74,39.2,99,196,Stable,0
+7859,M,27,2018-08-10,Ischemic Heart Disease,M19,ACE inhibitors,Smoking,114,106,85,37.4,199,205,Improved,0
+94213,M,84,2017-06-30,Chronic Kidney Disease,I25,Inhalers,Smoking,140,76,57,37.5,80,265,Stable,1
+63352,F,58,2018-11-17,Chronic Kidney Disease,J44,Insulin,Hyperlipidemia,127,110,73,38.8,198,214,Improved,0
+50199,F,53,2025-01-30,Hypertension,M19,Beta-blockers,Hyperlipidemia,172,106,66,38.4,114,140,Improved,0
+55239,F,30,2020-12-07,Depression,N18,ACE inhibitors,Obesity,111,102,108,39.5,77,182,Improved,1
+98341,M,48,2024-09-09,Hypertension,I25,ACE inhibitors,Obesity,137,104,72,36.6,95,217,Stable,0
+13706,M,18,2017-05-26,Ischemic Heart Disease,I10,Beta-blockers,Sleep Apnea,124,99,108,38.8,146,210,Worsened,1
+13580,F,18,2016-12-01,Diabetes Mellitus,I25,Beta-blockers,Hyperlipidemia,131,71,90,37.2,130,133,Worsened,0
+34571,F,30,2022-02-11,Asthma,J45,ACE inhibitors,Obesity,134,83,55,37.3,151,244,Worsened,1
+93622,M,21,2015-08-04,Asthma,M19,Inhalers,,126,61,87,38.2,96,135,Improved,0
+2105,M,84,2024-12-15,Osteoarthritis,M19,Inhalers,Hyperlipidemia,103,74,113,37.1,95,233,Improved,1
+74361,F,71,2016-01-05,COPD,N18,ACE inhibitors,Smoking,114,64,84,37.8,124,146,Improved,0
+85889,F,41,2020-11-15,Osteoarthritis,J44,ACE inhibitors,Hyperlipidemia,143,66,99,36.6,105,240,Worsened,1
+99907,F,31,2022-02-21,Diabetes Mellitus,N18,Antidepressants,Hyperlipidemia,130,101,88,36.2,189,192,Worsened,1
+56430,M,73,2025-03-18,Ischemic Heart Disease,I25,Insulin,Smoking,148,91,120,36.2,138,278,Stable,0
+86503,M,78,2016-03-20,Chronic Kidney Disease,I25,ACE inhibitors,Smoking,118,93,88,38.5,118,201,Stable,1
+12470,M,32,2020-03-16,Chronic Kidney Disease,J45,Inhalers,,132,98,58,38.5,101,219,Improved,1
+14779,M,37,2020-09-09,Diabetes Mellitus,N18,Inhalers,Anemia,178,67,86,37.2,119,156,Worsened,1
+27544,M,85,2019-12-03,Depression,F32,Dialysis,Anemia,168,68,81,36.6,73,184,Improved,0
+97977,F,84,2015-07-31,Depression,E11,Lifestyle changes,Hyperlipidemia,118,73,79,38.4,170,201,Improved,1
+46123,M,44,2019-12-03,Osteoarthritis,F32,Inhalers,Anemia,126,77,114,37.2,119,181,Worsened,0
+49369,M,51,2022-08-18,Hypertension,M19,Lifestyle changes,Smoking,109,68,62,39.5,121,239,Stable,0
+1333,F,72,2015-09-20,Ischemic Heart Disease,J44,Physical therapy,,105,105,114,37.6,86,220,Improved,0
+2361,M,87,2016-09-20,Chronic Kidney Disease,I10,Antidepressants,Anemia,104,109,99,37.9,142,232,Worsened,0
+82418,M,43,2022-08-03,COPD,F32,Inhalers,Obesity,162,93,98,36.0,146,201,Worsened,0
+45149,M,32,2018-10-18,Hypertension,E11,Inhalers,,159,68,118,37.7,177,225,Worsened,0
+7842,M,59,2016-04-16,Osteoarthritis,F32,Inhalers,Anemia,174,65,62,38.7,190,244,Worsened,1
+86291,M,80,2018-03-12,Diabetes Mellitus,E11,Dialysis,Hyperlipidemia,165,73,63,36.2,200,241,Worsened,0
+36035,M,29,2023-02-20,Chronic Kidney Disease,F32,Antidepressants,Hyperlipidemia,150,61,63,37.3,87,213,Worsened,0
+18146,M,89,2023-03-12,Chronic Kidney Disease,I25,Lifestyle changes,,164,69,108,36.3,189,263,Improved,1
+70746,M,31,2021-08-17,Ischemic Heart Disease,I25,Dialysis,Sleep Apnea,105,92,90,36.6,93,200,Improved,1
+78804,M,23,2021-01-04,Osteoarthritis,M19,Insulin,Obesity,180,60,98,38.9,139,195,Stable,0
+94236,M,76,2021-05-08,Asthma,F32,Antidepressants,Obesity,162,64,69,37.8,131,206,Worsened,1
+52491,F,80,2019-02-12,Asthma,J45,Dialysis,Obesity,178,61,118,39.5,174,154,Worsened,0
+88895,F,55,2021-05-06,Diabetes Mellitus,M19,Dialysis,,159,97,77,38.8,82,253,Worsened,0
+59269,M,86,2023-08-07,Osteoarthritis,N18,Beta-blockers,Smoking,179,61,74,36.1,98,265,Worsened,1
+19663,M,83,2020-07-10,Hypertension,E11,Lifestyle changes,Anemia,132,89,83,38.8,86,210,Stable,0
+49826,M,62,2020-04-13,COPD,J45,Insulin,Sleep Apnea,113,87,96,38.2,164,225,Improved,1
+1323,F,71,2017-06-04,Ischemic Heart Disease,J45,ACE inhibitors,,121,107,111,37.4,74,191,Improved,1
+37624,M,63,2017-12-30,Osteoarthritis,I25,Lifestyle changes,Obesity,106,64,105,38.0,142,144,Stable,0
+20087,M,38,2020-04-12,Asthma,E11,Lifestyle changes,Sleep Apnea,143,66,118,39.0,78,267,Improved,1
+88366,M,58,2016-02-14,Osteoarthritis,I25,ACE inhibitors,Hyperlipidemia,165,104,65,37.1,171,206,Stable,1
+92896,M,44,2024-09-13,Asthma,E11,Dialysis,Sleep Apnea,115,61,91,39.4,77,205,Stable,1
+69588,F,19,2020-05-11,Chronic Kidney Disease,E11,Insulin,Hyperlipidemia,160,62,115,37.4,154,273,Worsened,1
+26587,M,77,2024-02-29,Hypertension,J44,Inhalers,Sleep Apnea,105,82,106,38.6,93,270,Improved,0
+39879,F,22,2023-09-22,Diabetes Mellitus,I10,ACE inhibitors,Anemia,111,109,112,36.8,104,233,Stable,1
+75299,M,24,2019-07-12,Ischemic Heart Disease,E11,Antidepressants,,152,76,81,38.9,120,187,Stable,0
+53979,F,20,2016-11-05,Depression,J45,Antidepressants,Anemia,133,72,95,39.4,125,193,Stable,0
+49674,F,46,2023-05-28,Diabetes Mellitus,N18,Dialysis,,150,85,104,37.2,171,171,Improved,0
+75962,M,54,2016-05-19,Depression,J44,ACE inhibitors,Hyperlipidemia,175,98,87,37.8,110,236,Stable,1
+25356,F,64,2017-01-22,COPD,E11,Physical therapy,Hyperlipidemia,130,76,66,39.1,189,182,Stable,0
+27734,M,68,2024-10-18,Osteoarthritis,E11,Beta-blockers,Anemia,151,108,55,36.8,117,246,Worsened,1
+18006,M,58,2021-06-04,COPD,J45,Physical therapy,Smoking,131,92,74,36.8,122,180,Improved,0
+22673,M,81,2024-11-06,COPD,I10,Antidepressants,Obesity,143,85,65,36.8,112,147,Stable,1
+50381,F,49,2025-05-31,Diabetes Mellitus,I25,ACE inhibitors,Sleep Apnea,174,72,60,37.0,139,192,Improved,1
+59039,F,70,2015-07-18,COPD,I10,Antidepressants,Smoking,142,109,108,37.3,130,237,Worsened,1
+43445,M,80,2020-03-17,Osteoarthritis,N18,Physical therapy,Sleep Apnea,159,62,57,39.0,71,256,Worsened,0
+2281,M,32,2017-06-18,Depression,J44,Beta-blockers,Anemia,133,105,61,36.1,85,130,Improved,1
+77965,F,24,2018-11-06,COPD,J44,Dialysis,Smoking,152,68,60,37.5,82,223,Worsened,1
+96126,M,22,2021-12-16,Asthma,F32,Dialysis,Obesity,112,62,105,37.2,186,144,Worsened,1
+77648,M,23,2021-09-06,Depression,J44,Inhalers,Hyperlipidemia,104,87,61,39.5,121,206,Worsened,0
+31432,M,86,2019-07-28,Osteoarthritis,F32,Physical therapy,,139,71,64,36.5,183,193,Worsened,0
+31923,M,50,2025-01-19,COPD,E11,ACE inhibitors,Smoking,145,63,94,38.7,124,226,Stable,1
+15809,M,41,2016-08-08,Ischemic Heart Disease,J45,Beta-blockers,,130,100,73,38.5,190,247,Worsened,0
+85542,M,47,2021-05-17,Asthma,J44,Inhalers,Smoking,139,74,99,37.4,119,218,Improved,1
+15496,M,39,2022-12-11,Asthma,J44,ACE inhibitors,Smoking,146,83,68,38.6,134,138,Stable,1
+77432,F,46,2024-01-05,Depression,E11,Dialysis,,122,87,73,39.3,138,268,Stable,0
+57937,F,51,2025-06-02,Asthma,M19,Antidepressants,Hyperlipidemia,122,77,117,37.6,191,190,Worsened,1
+18950,F,47,2021-04-28,Depression,E11,Inhalers,,170,68,84,36.6,109,188,Improved,0
+22584,F,25,2024-07-24,Osteoarthritis,M19,Physical therapy,Hyperlipidemia,107,63,81,36.7,118,263,Stable,1
+6749,M,77,2022-02-12,Osteoarthritis,E11,ACE inhibitors,Anemia,134,104,61,36.1,105,161,Stable,1
+80574,M,75,2025-05-05,Depression,J45,Antidepressants,Smoking,164,87,88,37.8,117,142,Improved,0
+53071,M,31,2017-06-03,Osteoarthritis,M19,Dialysis,Anemia,162,63,98,37.4,191,199,Worsened,0
+1403,F,22,2024-01-17,COPD,F32,Beta-blockers,,112,105,81,38.2,90,178,Stable,0
+37782,M,58,2024-09-29,Asthma,E11,Antidepressants,Smoking,108,96,96,38.7,113,205,Worsened,1
+64680,M,48,2022-12-05,Hypertension,M19,ACE inhibitors,Anemia,158,81,88,36.6,182,138,Improved,1
+79961,M,63,2020-12-21,Asthma,I10,Inhalers,Anemia,153,64,80,37.1,169,152,Worsened,0
+23788,M,55,2017-11-05,COPD,F32,Antidepressants,Obesity,119,83,102,38.8,83,208,Stable,0
+30419,F,65,2019-10-04,Osteoarthritis,M19,Lifestyle changes,,130,71,85,36.8,192,240,Worsened,1
+59035,F,25,2025-03-14,Asthma,J45,Insulin,Smoking,119,70,77,37.3,104,244,Stable,1
+20331,F,66,2020-01-14,Chronic Kidney Disease,E11,ACE inhibitors,Hyperlipidemia,165,82,92,36.4,85,137,Improved,1
+95653,F,68,2019-09-15,Chronic Kidney Disease,F32,Lifestyle changes,Anemia,131,103,68,37.4,131,143,Improved,1
+884,F,72,2016-05-31,Chronic Kidney Disease,J45,Antidepressants,Obesity,175,80,108,39.2,149,160,Stable,0
+41516,F,69,2017-09-23,Chronic Kidney Disease,F32,Insulin,Smoking,109,101,100,38.3,128,158,Improved,0
+14039,M,42,2024-03-08,Hypertension,J44,Dialysis,Hyperlipidemia,145,72,99,37.8,76,187,Stable,0
+44970,M,82,2022-12-19,Hypertension,N18,Beta-blockers,Smoking,137,110,84,39.3,80,268,Stable,0
+32866,M,78,2021-07-04,Depression,I25,Antidepressants,Hyperlipidemia,169,82,96,38.8,133,179,Worsened,0
+79369,M,88,2024-10-03,Diabetes Mellitus,N18,Beta-blockers,,164,99,114,38.9,79,174,Improved,1
+3254,F,18,2019-08-27,Asthma,J45,Lifestyle changes,Anemia,171,76,101,36.0,112,216,Stable,1
+2938,M,41,2016-04-04,Depression,I10,Beta-blockers,Smoking,178,94,56,39.1,117,166,Stable,1
+36839,M,46,2022-12-26,Asthma,J44,Inhalers,Anemia,110,81,114,37.6,90,149,Improved,1
+25040,M,19,2020-08-28,Depression,I25,Lifestyle changes,,113,103,110,37.3,80,150,Stable,0
+23395,F,56,2019-03-03,Osteoarthritis,E11,Inhalers,Smoking,108,103,72,36.1,77,222,Worsened,0
+81993,M,27,2021-12-08,Diabetes Mellitus,N18,Lifestyle changes,Anemia,130,65,64,36.2,162,203,Worsened,1
+56294,M,60,2023-01-07,Chronic Kidney Disease,F32,Insulin,Hyperlipidemia,129,96,111,38.0,162,195,Improved,0
+1319,F,20,2021-04-25,Hypertension,I10,Physical therapy,Smoking,133,97,113,38.2,72,249,Worsened,0
+95285,F,68,2022-12-15,Depression,F32,Inhalers,,140,101,118,37.7,117,135,Worsened,0
+32593,F,22,2018-09-15,Chronic Kidney Disease,I25,Insulin,Obesity,128,106,112,38.1,158,234,Improved,0
+86254,M,63,2022-04-30,Hypertension,I10,ACE inhibitors,Obesity,164,96,74,38.6,176,277,Worsened,1
+79995,M,89,2024-12-06,Diabetes Mellitus,E11,Antidepressants,,107,103,104,37.9,177,130,Worsened,0
+63781,F,41,2022-06-14,Hypertension,I25,Beta-blockers,Hyperlipidemia,151,74,75,36.5,71,239,Worsened,0
+37109,M,36,2019-11-30,Osteoarthritis,I25,Beta-blockers,Sleep Apnea,142,71,113,39.0,170,207,Worsened,1
+1350,F,33,2020-10-24,Ischemic Heart Disease,I10,ACE inhibitors,Sleep Apnea,167,81,116,37.9,91,244,Stable,0
+4791,F,74,2022-01-22,Hypertension,M19,Physical therapy,,115,106,68,39.1,108,186,Stable,0
+96595,M,32,2016-02-03,Hypertension,J45,Insulin,Obesity,114,66,86,39.2,154,265,Improved,1
+87445,F,67,2019-11-15,Chronic Kidney Disease,I10,Lifestyle changes,Anemia,169,98,89,37.6,126,170,Improved,0
+87608,F,34,2021-08-14,Chronic Kidney Disease,I25,ACE inhibitors,Anemia,123,62,75,37.4,131,239,Worsened,1
+84334,F,52,2016-09-15,Osteoarthritis,F32,Antidepressants,Obesity,103,77,76,36.5,137,156,Stable,0
+58135,F,45,2021-01-10,Diabetes Mellitus,F32,Beta-blockers,Hyperlipidemia,111,98,104,38.5,78,158,Stable,0
+18635,F,36,2017-09-22,Osteoarthritis,J45,Lifestyle changes,Anemia,134,84,75,36.4,180,190,Stable,1
+3394,M,34,2022-07-10,Hypertension,F32,Insulin,Hyperlipidemia,115,63,95,37.3,194,256,Improved,0
+72229,M,59,2023-07-08,Hypertension,N18,Lifestyle changes,Smoking,130,84,83,37.1,130,187,Improved,1
+37588,M,83,2020-11-08,Osteoarthritis,J45,Antidepressants,Hyperlipidemia,100,102,63,39.2,124,186,Worsened,0
+11447,M,88,2020-08-23,Ischemic Heart Disease,J45,Dialysis,Obesity,163,97,55,37.7,70,159,Stable,1
+92169,F,72,2021-03-10,Hypertension,J45,Dialysis,Obesity,127,81,76,37.2,126,251,Stable,0
+33055,M,20,2023-06-28,Hypertension,M19,Antidepressants,Sleep Apnea,105,67,111,37.7,169,250,Improved,0
+93269,M,26,2020-07-13,Diabetes Mellitus,N18,Physical therapy,Sleep Apnea,126,74,78,38.8,93,140,Improved,0
+59809,M,25,2022-03-04,COPD,I25,Lifestyle changes,Smoking,126,106,105,36.8,109,158,Improved,1
+61578,F,28,2023-01-26,COPD,N18,Dialysis,Anemia,161,60,113,38.9,197,181,Stable,0
+49661,F,38,2023-01-24,Hypertension,N18,Antidepressants,Anemia,146,100,106,37.9,148,164,Improved,1
+11061,F,86,2023-05-06,Depression,J45,Insulin,Smoking,137,73,103,39.1,130,147,Worsened,0
+1551,M,83,2019-08-14,Diabetes Mellitus,M19,Dialysis,Sleep Apnea,102,89,120,39.3,132,195,Improved,0
+80751,F,48,2019-11-06,Chronic Kidney Disease,F32,ACE inhibitors,Sleep Apnea,159,110,88,38.4,70,154,Improved,0
+4511,M,61,2018-11-04,Osteoarthritis,I10,Physical therapy,Hyperlipidemia,148,64,55,39.5,175,253,Improved,0
+26439,M,68,2017-07-22,Asthma,N18,Beta-blockers,Hyperlipidemia,160,89,56,37.7,101,153,Stable,1
+86709,F,86,2019-05-18,Depression,N18,Insulin,Smoking,116,92,71,38.3,87,207,Worsened,1
+83004,F,60,2019-10-30,Depression,I10,Physical therapy,,157,72,115,38.0,169,131,Improved,0
+80167,M,82,2019-11-20,Osteoarthritis,J45,ACE inhibitors,Sleep Apnea,176,98,76,39.3,85,243,Improved,1
+48079,F,55,2023-03-03,Chronic Kidney Disease,E11,Dialysis,,118,103,63,38.0,160,221,Worsened,1
+16302,F,37,2017-05-23,Diabetes Mellitus,J45,Lifestyle changes,Sleep Apnea,133,106,66,38.4,79,260,Stable,1
+17495,F,25,2020-09-05,Chronic Kidney Disease,N18,ACE inhibitors,Smoking,146,97,119,38.1,155,240,Stable,0
+85699,M,86,2023-12-09,Diabetes Mellitus,E11,Lifestyle changes,Sleep Apnea,134,75,108,37.9,76,253,Improved,1
+61706,M,78,2022-06-14,Osteoarthritis,N18,ACE inhibitors,Smoking,123,92,114,36.9,187,167,Stable,1
+49149,F,85,2021-06-17,Ischemic Heart Disease,F32,ACE inhibitors,Sleep Apnea,149,88,112,36.6,192,267,Improved,1
+70173,F,70,2018-05-08,Ischemic Heart Disease,I25,Lifestyle changes,Obesity,165,92,116,38.3,156,220,Improved,1
+96223,M,81,2018-03-28,Ischemic Heart Disease,J45,Dialysis,,164,70,90,36.3,100,257,Worsened,1
+52413,M,84,2022-01-21,Ischemic Heart Disease,M19,Physical therapy,Hyperlipidemia,116,102,110,38.5,108,259,Improved,1
+97494,F,67,2019-04-29,COPD,J45,Insulin,Smoking,161,102,77,36.1,159,145,Improved,1
+9094,M,84,2024-07-24,Diabetes Mellitus,E11,Insulin,Sleep Apnea,137,105,94,39.3,132,247,Stable,0
+6268,F,65,2024-06-05,Osteoarthritis,J45,ACE inhibitors,Hyperlipidemia,172,85,101,36.7,159,278,Improved,0
+81824,F,79,2024-04-25,Depression,J44,Beta-blockers,,145,84,91,39.0,123,152,Improved,0
+40204,M,21,2024-07-02,Ischemic Heart Disease,E11,Physical therapy,Sleep Apnea,144,67,77,39.1,136,160,Worsened,0
+69326,M,19,2017-08-30,Depression,J44,Antidepressants,Anemia,178,82,64,36.1,160,205,Worsened,1
+57863,M,29,2018-07-31,Asthma,I10,Lifestyle changes,Sleep Apnea,176,99,104,38.8,79,197,Improved,1
+52992,M,74,2021-07-21,Ischemic Heart Disease,N18,Dialysis,Sleep Apnea,120,106,113,38.1,111,224,Worsened,0
+89246,M,31,2023-01-13,Osteoarthritis,F32,Antidepressants,Anemia,154,96,94,38.0,180,146,Stable,0
+26874,F,39,2024-11-11,Chronic Kidney Disease,I10,Dialysis,Smoking,145,61,74,39.0,115,209,Stable,0
+62597,F,76,2020-01-26,Asthma,N18,Physical therapy,Hyperlipidemia,175,84,70,36.8,87,150,Stable,1
+47746,F,80,2016-11-04,COPD,I10,Physical therapy,Anemia,160,104,92,38.0,162,228,Improved,0
+40991,F,42,2024-03-14,COPD,F32,Inhalers,Smoking,110,82,63,38.5,128,214,Worsened,1
+13929,M,20,2017-01-20,Asthma,I25,Physical therapy,Obesity,121,108,77,38.0,76,233,Stable,1
+94954,F,54,2020-08-25,Depression,J44,Beta-blockers,Hyperlipidemia,157,93,58,39.3,184,179,Stable,1
+18743,F,79,2022-02-14,Chronic Kidney Disease,J44,Physical therapy,Anemia,121,89,77,36.6,93,156,Stable,0
+1058,F,82,2019-12-16,Hypertension,I25,Beta-blockers,Anemia,171,79,61,37.6,116,248,Stable,0
+4338,F,86,2016-08-01,Diabetes Mellitus,F32,Insulin,Obesity,131,92,67,38.7,188,254,Worsened,0
+34171,F,50,2021-08-26,Asthma,J45,Beta-blockers,Obesity,163,72,73,39.1,142,132,Stable,0
+96506,F,61,2023-02-21,Asthma,F32,Dialysis,Obesity,180,91,92,39.0,195,245,Stable,0
+2030,M,64,2022-04-30,COPD,J45,Insulin,Smoking,118,94,82,38.1,195,195,Improved,1
+1431,F,64,2017-01-10,Depression,J45,Physical therapy,Smoking,103,107,98,37.3,161,181,Improved,1
+35084,F,90,2023-04-10,Diabetes Mellitus,I25,Insulin,Anemia,134,72,57,38.6,106,280,Improved,1
+33932,M,24,2024-08-14,COPD,N18,Dialysis,,110,107,105,36.2,94,170,Improved,0
+55376,F,50,2024-10-17,Depression,E11,ACE inhibitors,,144,71,89,36.3,81,244,Stable,1
+22825,M,84,2020-10-18,Ischemic Heart Disease,I10,Dialysis,Sleep Apnea,155,110,85,37.2,126,175,Worsened,0
+73647,M,49,2018-07-19,COPD,I25,Dialysis,Anemia,165,64,63,36.8,127,153,Worsened,1
+25270,F,72,2021-09-11,Hypertension,M19,Beta-blockers,,158,83,65,36.0,101,275,Worsened,0
+64035,M,66,2024-12-11,Diabetes Mellitus,E11,Physical therapy,Obesity,141,91,97,37.9,137,221,Stable,1
+14806,F,40,2024-11-23,Depression,J45,Insulin,Anemia,174,108,66,36.3,163,138,Improved,1
+60298,M,47,2020-02-11,Asthma,J44,ACE inhibitors,Sleep Apnea,161,61,85,39.3,70,263,Stable,1
+50079,M,43,2020-08-11,Osteoarthritis,I25,Dialysis,Obesity,121,71,109,36.9,153,238,Worsened,1
+31592,F,65,2020-06-14,COPD,M19,Inhalers,Hyperlipidemia,136,85,107,38.0,166,144,Improved,0
+586,M,26,2025-02-21,Osteoarthritis,E11,Insulin,Sleep Apnea,150,71,91,37.8,116,200,Worsened,1
+36905,M,27,2019-09-02,Osteoarthritis,I25,Lifestyle changes,,124,97,58,38.5,182,199,Worsened,0
+21333,M,54,2017-09-28,Chronic Kidney Disease,I25,Physical therapy,Hyperlipidemia,128,106,92,36.3,195,220,Worsened,0
+39457,F,29,2025-06-04,Depression,J45,ACE inhibitors,Hyperlipidemia,136,71,100,37.2,72,201,Stable,1
+12534,M,84,2022-02-06,Asthma,I25,ACE inhibitors,Smoking,129,73,103,39.2,174,171,Improved,0
+40816,M,43,2017-11-29,Chronic Kidney Disease,J44,Antidepressants,Smoking,117,109,117,37.1,140,145,Stable,1
+68317,M,88,2018-08-07,Asthma,N18,Antidepressants,Hyperlipidemia,154,97,104,36.3,117,193,Stable,0
+42918,M,75,2024-02-18,Ischemic Heart Disease,M19,Insulin,Smoking,146,89,73,37.8,194,218,Improved,0
+5216,F,32,2021-07-29,Osteoarthritis,E11,Inhalers,Hyperlipidemia,109,82,82,39.3,152,183,Worsened,1
+83013,F,33,2021-10-24,Hypertension,J44,Antidepressants,Sleep Apnea,152,98,92,38.8,143,240,Worsened,1
+40200,F,38,2023-02-07,Asthma,I25,Antidepressants,Obesity,175,68,94,36.8,171,214,Improved,0
+64274,M,54,2019-10-01,Depression,E11,Beta-blockers,Sleep Apnea,101,103,80,38.4,175,264,Improved,1
+88544,M,42,2020-09-25,Ischemic Heart Disease,F32,Dialysis,Smoking,100,106,89,36.8,102,153,Improved,1
+834,F,68,2018-08-22,COPD,I10,Beta-blockers,Anemia,128,64,100,36.8,131,199,Improved,0
+41273,F,45,2021-02-07,Asthma,I25,Antidepressants,Smoking,102,69,106,36.4,200,181,Improved,0
+79343,M,30,2023-12-17,Chronic Kidney Disease,I25,Dialysis,Smoking,122,86,82,39.3,118,203,Worsened,1
+35016,F,28,2023-12-02,Ischemic Heart Disease,I25,Inhalers,Hyperlipidemia,178,86,58,38.1,89,267,Improved,0
+66703,F,57,2020-04-03,Chronic Kidney Disease,J45,Lifestyle changes,Smoking,126,79,60,38.6,102,233,Stable,1
+65644,M,83,2017-12-28,Hypertension,I10,Inhalers,Anemia,168,104,113,37.9,99,202,Stable,1
+18486,F,63,2015-08-31,Diabetes Mellitus,N18,Inhalers,Anemia,152,72,98,37.9,170,267,Worsened,1
+33334,F,40,2018-04-01,Hypertension,I10,Inhalers,Hyperlipidemia,148,84,64,36.1,176,252,Stable,0
+13552,F,61,2017-02-12,Hypertension,J44,Beta-blockers,,147,101,113,36.4,82,173,Improved,0
+95261,M,73,2022-11-15,Asthma,E11,Insulin,,152,87,56,37.0,173,267,Stable,0
+17673,F,19,2019-09-01,Depression,J44,Beta-blockers,Hyperlipidemia,131,101,58,37.2,85,172,Improved,1
+23146,M,64,2016-01-25,Chronic Kidney Disease,J45,Beta-blockers,,153,68,91,37.9,159,204,Worsened,1
+61130,F,29,2023-09-30,Chronic Kidney Disease,J44,ACE inhibitors,Anemia,141,61,87,36.7,168,152,Stable,0
+69841,M,38,2015-12-09,COPD,I10,Dialysis,Smoking,151,96,82,36.3,151,240,Stable,1
+96987,M,84,2016-04-23,Depression,I25,Antidepressants,,152,78,82,37.5,89,230,Improved,1
+35754,F,87,2022-04-17,Chronic Kidney Disease,I10,ACE inhibitors,Hyperlipidemia,107,94,55,38.2,117,213,Stable,0
+33460,F,38,2019-12-10,Diabetes Mellitus,F32,Insulin,Anemia,145,70,72,38.9,191,188,Worsened,1
+14269,F,20,2015-07-11,Osteoarthritis,I10,Physical therapy,Smoking,148,74,92,36.9,71,148,Improved,0
+22187,M,58,2025-04-12,Hypertension,I10,ACE inhibitors,,122,68,85,37.6,144,201,Stable,0
+15023,M,58,2021-10-06,Asthma,N18,Antidepressants,Hyperlipidemia,119,68,99,37.0,111,232,Improved,1
+11969,F,55,2022-03-30,Asthma,M19,ACE inhibitors,,131,102,56,38.5,133,141,Improved,1
+28566,F,52,2022-02-04,Osteoarthritis,E11,Lifestyle changes,Anemia,103,100,68,38.0,170,277,Stable,1
+25842,M,31,2023-05-30,Osteoarthritis,N18,Inhalers,Smoking,178,95,117,39.4,146,214,Improved,1
+279,M,28,2023-05-01,Chronic Kidney Disease,F32,Dialysis,Obesity,111,91,59,38.3,143,235,Stable,1
+76183,F,89,2025-05-31,Hypertension,F32,Beta-blockers,Smoking,179,84,98,37.5,111,221,Worsened,0
+6149,M,74,2025-04-05,Ischemic Heart Disease,I10,Lifestyle changes,Sleep Apnea,138,69,60,37.7,95,179,Stable,1
+61297,F,22,2024-01-12,Osteoarthritis,I25,Lifestyle changes,Hyperlipidemia,169,69,115,38.8,177,260,Stable,1
+77960,M,63,2024-06-23,Depression,N18,Insulin,Sleep Apnea,161,83,60,37.3,166,226,Stable,1
+14150,M,76,2022-01-10,Chronic Kidney Disease,E11,Insulin,Smoking,169,76,118,36.4,159,267,Stable,1
+47140,M,87,2016-11-20,Asthma,F32,ACE inhibitors,Smoking,139,61,75,36.3,70,267,Stable,1
+29518,M,78,2018-03-24,COPD,F32,Lifestyle changes,Anemia,146,106,69,37.4,150,278,Improved,1
+10050,M,70,2018-11-03,Hypertension,E11,Dialysis,,154,71,57,38.7,172,164,Worsened,1
+53346,F,49,2023-08-28,Hypertension,I25,Inhalers,Anemia,156,103,77,39.2,150,193,Stable,0
+75310,M,26,2025-04-12,Chronic Kidney Disease,E11,Physical therapy,Smoking,145,96,77,38.6,164,221,Worsened,1
+20613,M,68,2019-06-30,Osteoarthritis,I25,Physical therapy,Sleep Apnea,108,104,108,38.7,200,182,Worsened,1
+34287,M,62,2016-08-23,Hypertension,J45,Antidepressants,,151,105,98,37.6,99,190,Stable,1
+59397,M,49,2016-06-07,Hypertension,J44,Dialysis,Sleep Apnea,163,77,65,37.6,91,153,Worsened,0
+38721,M,48,2016-05-16,Ischemic Heart Disease,N18,Dialysis,Anemia,111,102,76,37.5,122,279,Stable,1
+31121,M,32,2019-06-06,Hypertension,I25,ACE inhibitors,,135,80,119,36.4,121,243,Worsened,0
+46500,F,34,2022-04-15,Hypertension,F32,Dialysis,Obesity,115,82,56,39.1,188,232,Improved,0
+31419,M,69,2017-08-25,COPD,J45,ACE inhibitors,Obesity,150,63,93,36.7,79,256,Worsened,0
+1573,M,57,2021-08-06,Asthma,N18,Physical therapy,Sleep Apnea,128,107,109,39.1,87,179,Stable,1
+78057,F,85,2015-12-09,COPD,N18,Physical therapy,Obesity,157,77,94,36.9,140,212,Stable,0
+53084,M,64,2020-06-23,Hypertension,J45,Inhalers,Anemia,133,67,57,37.7,107,248,Stable,1
+27806,F,21,2020-02-17,COPD,M19,Physical therapy,Hyperlipidemia,121,89,58,37.4,160,143,Worsened,0
+96811,F,33,2018-04-04,Depression,M19,ACE inhibitors,Hyperlipidemia,100,85,92,39.4,143,157,Worsened,1
+97650,M,33,2025-06-04,COPD,J45,Inhalers,Smoking,160,60,89,36.0,149,201,Improved,0
+15843,F,61,2016-03-09,Ischemic Heart Disease,I25,ACE inhibitors,,119,104,93,38.2,119,234,Worsened,0
+52853,M,87,2024-07-19,Depression,J44,Beta-blockers,Anemia,165,87,118,38.6,174,176,Worsened,0
+50138,F,89,2021-09-13,Ischemic Heart Disease,F32,Lifestyle changes,Obesity,126,98,82,39.3,195,245,Stable,0
+27538,M,71,2018-02-06,Osteoarthritis,E11,Physical therapy,Sleep Apnea,109,68,109,36.5,148,278,Worsened,0
+11856,M,44,2022-05-11,Asthma,I10,Physical therapy,Smoking,180,95,59,38.8,111,134,Worsened,0
+41094,F,34,2024-07-12,Ischemic Heart Disease,N18,Antidepressants,Sleep Apnea,162,92,76,39.1,196,205,Stable,1
+40942,M,46,2022-09-07,Osteoarthritis,M19,Beta-blockers,,117,85,96,36.6,105,151,Improved,1
+78213,M,44,2018-01-27,Chronic Kidney Disease,I25,Beta-blockers,,145,82,77,37.2,150,277,Worsened,1
+70852,F,68,2019-04-17,Ischemic Heart Disease,I25,Beta-blockers,Sleep Apnea,167,68,105,39.0,166,191,Stable,1
+85907,F,56,2018-07-04,Hypertension,E11,Beta-blockers,Sleep Apnea,135,94,84,37.4,71,229,Improved,1
+70227,F,64,2024-10-19,Asthma,F32,Insulin,Obesity,110,96,73,39.0,95,247,Worsened,1
+17248,F,71,2016-01-27,Osteoarthritis,I10,Insulin,Anemia,143,64,56,36.2,153,139,Worsened,1
+91331,F,44,2022-02-10,Hypertension,J45,Antidepressants,,124,101,58,39.4,120,209,Improved,1
+74412,M,43,2021-04-15,Asthma,M19,ACE inhibitors,,177,69,70,36.0,70,130,Stable,0
+13736,F,28,2016-05-20,Osteoarthritis,I25,Antidepressants,Obesity,122,97,116,36.5,72,171,Stable,1
+75534,F,22,2015-12-03,Asthma,I10,Inhalers,Hyperlipidemia,166,96,60,38.8,108,227,Improved,1
+19779,M,40,2025-04-04,Ischemic Heart Disease,I25,Physical therapy,Obesity,164,79,103,38.9,112,279,Stable,1
+8094,M,22,2018-05-25,Osteoarthritis,I10,Dialysis,Sleep Apnea,117,86,60,39.4,163,149,Worsened,1
+92534,F,65,2018-03-09,Diabetes Mellitus,J44,Lifestyle changes,Hyperlipidemia,150,99,82,38.2,138,183,Worsened,0
+82193,M,28,2022-10-03,Diabetes Mellitus,N18,Inhalers,Hyperlipidemia,180,60,107,38.3,115,172,Stable,0
+67484,M,20,2024-09-23,COPD,I10,Beta-blockers,Obesity,138,90,109,39.1,72,279,Stable,1
+46678,F,20,2016-04-21,Asthma,I10,Physical therapy,Anemia,104,107,82,36.1,94,137,Stable,0
+74258,F,79,2016-02-03,Chronic Kidney Disease,M19,Inhalers,Smoking,100,88,98,38.5,183,204,Stable,1
+54569,F,27,2023-08-08,Depression,J45,Insulin,Hyperlipidemia,121,62,94,37.6,73,259,Improved,0
+61461,F,70,2019-08-19,Ischemic Heart Disease,F32,Dialysis,,120,72,60,37.6,82,230,Stable,1
+31022,M,23,2020-09-08,Chronic Kidney Disease,E11,Inhalers,,146,98,95,36.5,157,183,Improved,0
+2130,M,41,2020-10-30,COPD,N18,Beta-blockers,Anemia,151,91,83,37.4,77,201,Worsened,0
+95185,F,36,2024-07-31,Depression,I25,Antidepressants,Anemia,132,68,85,39.0,174,280,Worsened,0
+11864,F,54,2022-06-21,Hypertension,F32,ACE inhibitors,Anemia,141,109,62,36.6,199,141,Improved,1
+55043,M,40,2019-03-01,Diabetes Mellitus,I25,ACE inhibitors,Obesity,104,72,107,36.7,127,155,Stable,0
+14425,F,78,2019-09-26,Depression,J44,Dialysis,Hyperlipidemia,176,82,77,38.6,97,273,Worsened,0
+52151,M,67,2024-06-25,Hypertension,I25,Beta-blockers,Obesity,162,61,84,37.6,113,140,Worsened,1
+9162,M,86,2023-04-30,Ischemic Heart Disease,J44,Physical therapy,,171,78,82,38.8,129,258,Stable,0
+42666,F,55,2020-08-18,Hypertension,E11,Insulin,Sleep Apnea,126,88,102,36.9,186,235,Improved,0
+7316,M,24,2016-08-04,Hypertension,M19,Inhalers,Anemia,138,101,82,37.8,93,132,Stable,0
+2181,M,18,2024-10-14,Ischemic Heart Disease,F32,Insulin,Hyperlipidemia,163,67,98,38.4,184,139,Improved,0
+67359,F,59,2017-02-15,Asthma,E11,Lifestyle changes,,150,98,120,39.4,122,232,Worsened,0
+9601,M,25,2018-06-12,Asthma,I10,Antidepressants,,106,63,107,37.3,200,159,Stable,0
+35737,F,33,2023-03-11,Ischemic Heart Disease,J44,Physical therapy,Hyperlipidemia,120,78,62,36.0,173,193,Stable,0
+30465,F,74,2019-10-22,Asthma,I10,Beta-blockers,,155,94,106,38.5,118,270,Improved,1
+10572,M,59,2015-09-21,Depression,J45,Beta-blockers,Hyperlipidemia,177,87,91,36.2,99,191,Stable,0
+85767,F,37,2025-03-17,Osteoarthritis,F32,Beta-blockers,,164,81,69,37.3,177,192,Stable,0
+6176,F,35,2024-02-05,Osteoarthritis,N18,Lifestyle changes,Hyperlipidemia,131,101,58,38.9,90,184,Worsened,0
+31197,M,26,2016-12-31,Chronic Kidney Disease,M19,Lifestyle changes,,110,98,107,36.2,148,215,Stable,1
+77458,F,86,2018-08-18,Depression,J44,Dialysis,Hyperlipidemia,142,67,106,38.7,82,146,Improved,1
+1222,M,79,2024-02-02,Diabetes Mellitus,F32,Physical therapy,Sleep Apnea,151,60,57,37.0,182,195,Improved,1
+74449,M,26,2017-01-21,Asthma,N18,Insulin,Anemia,143,103,85,36.2,110,275,Stable,1
+37038,M,70,2025-01-09,Osteoarthritis,E11,Dialysis,Obesity,173,108,117,36.0,138,165,Worsened,0
+16291,F,89,2016-04-20,Asthma,I10,Physical therapy,Obesity,135,107,106,36.9,131,258,Improved,1
+25453,M,78,2021-04-25,Depression,I25,Antidepressants,Sleep Apnea,115,109,85,37.0,125,208,Stable,1
+33563,M,89,2019-06-04,Osteoarthritis,F32,Insulin,Obesity,155,70,117,38.8,83,264,Improved,0
+656,F,39,2016-10-04,Ischemic Heart Disease,M19,Insulin,Obesity,107,66,103,36.7,185,182,Worsened,0
+43384,F,26,2023-11-30,Ischemic Heart Disease,M19,Beta-blockers,Smoking,100,83,98,37.6,149,131,Worsened,1
+64833,F,75,2021-06-14,Diabetes Mellitus,N18,Lifestyle changes,Smoking,151,68,117,38.9,145,172,Worsened,0
+37692,M,51,2021-04-24,Chronic Kidney Disease,M19,Inhalers,Hyperlipidemia,157,86,94,37.5,103,234,Improved,0
+50195,M,45,2024-11-26,Chronic Kidney Disease,F32,Insulin,,172,93,56,38.9,138,243,Improved,1
+64798,F,36,2017-06-14,COPD,I25,Antidepressants,Hyperlipidemia,117,63,85,36.4,96,200,Improved,1
+34273,F,68,2017-09-26,Ischemic Heart Disease,M19,Physical therapy,Smoking,120,73,59,37.3,100,207,Improved,1
+4051,F,27,2021-04-12,Depression,E11,Insulin,Obesity,103,61,77,37.8,70,140,Worsened,0
+87072,F,62,2016-04-21,Diabetes Mellitus,J44,Dialysis,Anemia,162,101,117,37.5,161,185,Worsened,1
+81773,F,37,2023-05-06,Asthma,I10,Antidepressants,Hyperlipidemia,133,108,80,38.4,164,260,Improved,0
+70997,F,25,2016-03-09,Diabetes Mellitus,M19,Dialysis,Hyperlipidemia,134,92,85,36.3,83,226,Worsened,0
+4368,M,74,2023-04-14,Depression,F32,Beta-blockers,Sleep Apnea,128,100,65,37.0,180,269,Worsened,1
+56346,F,79,2019-06-06,COPD,F32,Dialysis,Hyperlipidemia,113,108,69,37.6,102,265,Worsened,0
+45918,M,43,2019-05-06,Depression,N18,Dialysis,Obesity,156,82,112,38.8,183,147,Stable,1
+46369,M,18,2019-09-20,Hypertension,M19,Beta-blockers,Sleep Apnea,136,101,79,36.9,174,140,Worsened,1
+90890,M,68,2020-07-08,Chronic Kidney Disease,M19,Dialysis,Obesity,170,77,78,39.2,88,196,Stable,1
+5074,M,43,2024-06-27,Ischemic Heart Disease,F32,Beta-blockers,Sleep Apnea,120,67,97,38.9,140,160,Stable,1
+35991,F,72,2023-01-05,Depression,F32,ACE inhibitors,,143,99,100,36.6,70,194,Stable,0
+10502,M,61,2015-07-21,COPD,I10,Inhalers,Obesity,103,77,86,38.4,182,195,Stable,1
+55930,F,87,2025-01-23,Chronic Kidney Disease,E11,Physical therapy,Obesity,111,85,74,37.8,190,225,Improved,0
+11015,M,84,2017-04-23,Diabetes Mellitus,E11,ACE inhibitors,,157,100,55,36.1,164,268,Improved,1
+80128,F,78,2023-09-27,Hypertension,J44,Insulin,Sleep Apnea,147,72,77,38.8,102,187,Improved,1
+40039,F,58,2022-12-25,Hypertension,M19,Beta-blockers,,162,93,117,36.9,167,235,Stable,1
+69576,F,85,2016-03-21,Osteoarthritis,M19,Insulin,Sleep Apnea,101,62,94,38.9,77,258,Stable,0
+8787,F,27,2015-10-18,Hypertension,J45,ACE inhibitors,Smoking,172,87,98,36.5,185,266,Improved,0
+60719,F,22,2024-12-03,Hypertension,I10,Insulin,Smoking,178,93,111,37.4,180,187,Improved,0
+55432,M,86,2022-04-13,Hypertension,J45,Lifestyle changes,,149,72,56,38.9,144,235,Worsened,1
+95341,M,19,2017-03-19,Depression,E11,Inhalers,Smoking,169,64,75,36.9,168,243,Stable,0
+19213,F,81,2025-05-03,Depression,J45,ACE inhibitors,Anemia,162,85,120,36.1,72,213,Stable,0
+94482,F,87,2023-09-10,Asthma,N18,Insulin,Smoking,122,91,98,36.8,90,184,Stable,0
+41047,M,35,2020-06-13,Asthma,F32,Lifestyle changes,Sleep Apnea,131,100,109,39.3,73,271,Improved,0
+3790,M,85,2024-10-03,COPD,I10,Insulin,Obesity,101,98,118,37.6,118,252,Improved,1
+90092,F,24,2017-06-19,Diabetes Mellitus,I25,Beta-blockers,Smoking,122,74,103,37.0,74,188,Stable,1
+58117,M,70,2016-09-09,Hypertension,F32,Antidepressants,Anemia,141,74,79,39.0,122,166,Improved,1
+22507,M,86,2025-04-11,Chronic Kidney Disease,E11,Lifestyle changes,Smoking,148,102,105,38.3,176,227,Worsened,0
+17920,F,50,2020-07-23,Asthma,F32,Physical therapy,Obesity,104,87,96,36.1,101,229,Stable,1
+96635,F,68,2020-11-02,Chronic Kidney Disease,M19,Antidepressants,Smoking,148,75,60,38.2,170,148,Stable,1
+8570,F,30,2017-01-14,Hypertension,I10,Dialysis,Obesity,174,66,70,38.3,142,240,Improved,1
+88174,M,85,2022-01-26,Hypertension,M19,Beta-blockers,,154,104,97,39.3,71,258,Worsened,1
+45795,M,74,2019-03-19,COPD,I10,Antidepressants,Obesity,126,76,66,36.4,116,134,Worsened,1
+73839,F,46,2025-04-28,COPD,M19,Beta-blockers,Obesity,158,82,96,38.3,114,130,Stable,1
+15461,F,27,2019-05-03,COPD,F32,Inhalers,Obesity,116,92,106,39.0,105,239,Stable,0
+8312,M,52,2021-03-23,Diabetes Mellitus,J45,Antidepressants,Sleep Apnea,148,70,72,37.6,72,191,Stable,0
+64112,F,18,2017-03-21,Diabetes Mellitus,E11,Inhalers,Smoking,128,69,107,36.7,152,184,Improved,0
+9661,M,58,2022-06-06,Diabetes Mellitus,N18,Insulin,Smoking,172,87,120,39.0,73,237,Worsened,1
+857,F,78,2024-07-14,Diabetes Mellitus,N18,Beta-blockers,,163,80,90,36.2,117,210,Stable,0
+57420,M,33,2024-08-14,Osteoarthritis,J45,ACE inhibitors,Obesity,104,82,77,36.6,192,175,Worsened,1
+40012,M,31,2016-10-08,Hypertension,I10,Insulin,Smoking,122,94,74,38.4,129,181,Improved,1
+21178,M,45,2022-01-02,Hypertension,I10,Antidepressants,Obesity,113,104,90,38.2,154,253,Stable,0
+85575,F,49,2022-10-30,Diabetes Mellitus,I10,ACE inhibitors,Obesity,167,70,99,37.5,173,199,Worsened,1
+22154,F,34,2020-11-27,Diabetes Mellitus,N18,Dialysis,,147,81,61,38.0,85,133,Worsened,1
+66030,F,39,2016-06-11,COPD,N18,Physical therapy,Hyperlipidemia,177,84,65,37.0,137,134,Worsened,0
+11469,M,49,2022-09-24,Hypertension,F32,Insulin,Hyperlipidemia,106,88,81,38.3,152,275,Worsened,0
+65982,F,29,2018-01-23,Osteoarthritis,I25,Insulin,,150,110,89,38.4,187,261,Improved,0
+37238,M,23,2023-09-23,Hypertension,I10,Physical therapy,Smoking,108,83,60,39.4,92,143,Improved,1
+72376,F,55,2020-03-03,Chronic Kidney Disease,E11,Beta-blockers,Hyperlipidemia,158,64,67,38.1,145,204,Worsened,0
+83143,F,40,2017-07-02,Asthma,E11,Physical therapy,Obesity,136,66,83,36.5,186,275,Improved,0
+20283,F,39,2017-09-26,Depression,N18,Inhalers,Obesity,180,107,95,39.2,140,213,Stable,0
+12388,F,61,2020-10-18,Diabetes Mellitus,F32,Physical therapy,Hyperlipidemia,156,94,114,36.9,129,214,Worsened,1
+29870,M,71,2022-04-17,COPD,J45,Inhalers,,149,106,100,37.6,131,192,Stable,1
+78789,M,72,2024-07-09,Chronic Kidney Disease,J45,Dialysis,,163,107,59,37.0,90,228,Stable,0
+69418,M,74,2023-06-09,Asthma,M19,Physical therapy,Anemia,140,97,65,38.9,130,155,Improved,1
+10900,M,52,2022-08-11,Hypertension,I10,Beta-blockers,Hyperlipidemia,155,74,99,37.5,115,184,Improved,1
+22740,M,34,2018-03-18,COPD,I25,ACE inhibitors,Smoking,143,75,92,36.6,144,140,Improved,0
+1415,F,63,2023-10-18,Hypertension,I25,Physical therapy,Anemia,171,83,68,37.9,107,258,Stable,0
+30953,M,48,2025-03-13,Asthma,I25,Dialysis,Sleep Apnea,141,74,96,39.0,158,264,Improved,1
+56835,F,72,2015-07-30,COPD,M19,Physical therapy,Smoking,106,108,95,38.1,98,140,Worsened,0
+38936,F,90,2017-07-17,Depression,I25,Antidepressants,Sleep Apnea,135,62,102,37.5,138,163,Stable,0
+32201,F,81,2016-04-06,Chronic Kidney Disease,E11,Lifestyle changes,Hyperlipidemia,104,82,117,38.2,103,194,Improved,1
+68845,F,39,2021-02-14,Osteoarthritis,F32,Physical therapy,,151,69,96,36.3,113,153,Worsened,1
+45692,F,87,2024-11-14,Asthma,J45,Antidepressants,Smoking,178,64,83,37.4,142,137,Improved,0
+72020,F,89,2021-09-18,Osteoarthritis,N18,Dialysis,,144,74,58,36.7,155,181,Stable,1
+80648,F,79,2021-04-04,Ischemic Heart Disease,J45,Beta-blockers,Hyperlipidemia,127,108,57,36.2,80,241,Stable,0
+20428,M,71,2023-12-06,Hypertension,I10,Inhalers,Sleep Apnea,123,92,89,38.9,168,278,Worsened,0
+11896,M,38,2020-12-12,Hypertension,N18,Inhalers,Sleep Apnea,126,74,115,36.7,85,272,Improved,1
+4625,F,75,2015-11-06,Asthma,I25,Inhalers,,154,79,110,39.3,190,224,Worsened,0
+29506,F,26,2020-07-04,COPD,N18,Lifestyle changes,Hyperlipidemia,105,70,67,38.0,125,259,Stable,0
+12561,F,46,2018-04-22,Osteoarthritis,E11,Physical therapy,Sleep Apnea,156,86,66,37.4,177,185,Stable,1
+38943,M,50,2018-12-09,Asthma,I10,Insulin,,160,69,56,38.2,76,202,Stable,0
+69606,M,63,2024-05-04,Hypertension,I10,Physical therapy,,172,75,97,37.3,128,272,Worsened,0
+574,M,45,2018-07-24,Chronic Kidney Disease,I25,Antidepressants,Smoking,153,81,60,36.5,126,277,Stable,0
+84866,F,87,2023-03-26,Osteoarthritis,I10,ACE inhibitors,Obesity,162,60,64,36.2,161,161,Worsened,0
+51744,M,67,2019-05-11,Asthma,J44,ACE inhibitors,Obesity,137,91,72,37.7,150,150,Improved,0
+74337,F,54,2025-05-22,COPD,M19,Antidepressants,Anemia,104,99,62,37.2,138,214,Stable,0
+86885,F,35,2018-02-11,Diabetes Mellitus,M19,Lifestyle changes,Sleep Apnea,118,68,61,37.9,165,243,Worsened,0
+36239,M,40,2022-01-02,Ischemic Heart Disease,I10,Lifestyle changes,Smoking,119,84,75,39.0,134,196,Worsened,1
+50283,M,80,2017-04-13,Ischemic Heart Disease,I10,Lifestyle changes,Hyperlipidemia,158,70,97,38.0,194,135,Stable,0
+7749,F,58,2023-08-18,Ischemic Heart Disease,J45,Physical therapy,Sleep Apnea,124,95,118,37.5,122,160,Improved,1
+45120,F,51,2018-11-20,Ischemic Heart Disease,I25,Lifestyle changes,Hyperlipidemia,106,93,76,36.2,159,231,Stable,1
+99912,F,81,2018-11-23,Hypertension,J45,Lifestyle changes,Obesity,165,94,100,36.4,88,274,Stable,0
+73382,F,60,2017-06-09,COPD,J45,Inhalers,,116,92,118,38.3,141,143,Worsened,1
+60894,M,67,2022-04-28,COPD,N18,Lifestyle changes,,154,92,108,37.0,164,142,Stable,1
+76179,F,52,2024-02-22,Chronic Kidney Disease,I10,Beta-blockers,Anemia,146,107,67,37.8,187,206,Worsened,0
+79844,F,26,2017-06-02,Diabetes Mellitus,J45,Lifestyle changes,Anemia,177,98,97,38.4,72,256,Stable,0
+86324,F,86,2016-11-27,Ischemic Heart Disease,E11,Lifestyle changes,,113,84,100,36.2,78,205,Worsened,0
+98518,M,76,2022-06-29,Asthma,F32,Beta-blockers,Anemia,127,87,104,36.6,87,156,Stable,0
+76930,M,60,2023-07-18,Depression,F32,Beta-blockers,Hyperlipidemia,154,73,119,39.0,159,188,Worsened,0
+17962,M,36,2024-06-24,Hypertension,F32,Dialysis,,160,83,120,38.5,134,267,Worsened,1
+64846,F,57,2016-08-29,Hypertension,E11,ACE inhibitors,Hyperlipidemia,101,95,102,38.5,188,268,Stable,0
+28287,F,45,2019-07-23,Osteoarthritis,I10,Physical therapy,Smoking,119,81,112,38.1,185,153,Improved,1
+16731,M,25,2021-09-22,Depression,I10,Antidepressants,Obesity,161,99,107,38.3,157,270,Stable,0
+67703,M,49,2021-05-16,Diabetes Mellitus,F32,Antidepressants,Smoking,180,72,84,36.3,168,172,Worsened,0
+81582,M,74,2018-08-28,Asthma,N18,Dialysis,Hyperlipidemia,157,61,72,36.8,125,263,Stable,1
+2743,M,87,2017-02-13,Depression,I25,Inhalers,Sleep Apnea,171,92,97,37.1,165,135,Worsened,1
+91840,F,69,2021-04-11,Hypertension,E11,ACE inhibitors,Obesity,150,76,103,36.9,103,155,Stable,0
+51277,M,74,2020-07-27,Ischemic Heart Disease,J45,Lifestyle changes,Smoking,178,99,80,39.4,127,227,Improved,0
+10818,F,76,2018-12-12,Depression,N18,Beta-blockers,,106,97,86,37.6,141,208,Stable,0
+13414,M,21,2022-12-23,Osteoarthritis,J44,Physical therapy,Obesity,116,68,103,36.2,80,204,Worsened,1
+4646,M,89,2016-09-11,COPD,E11,Lifestyle changes,Hyperlipidemia,141,108,89,37.2,170,276,Worsened,1
+24831,F,85,2015-10-10,Osteoarthritis,I10,Lifestyle changes,Anemia,122,91,103,38.6,132,182,Stable,1
+51478,F,73,2021-07-02,Ischemic Heart Disease,F32,Insulin,,121,87,72,38.3,98,158,Improved,0
+60477,F,47,2025-01-30,COPD,F32,ACE inhibitors,Smoking,178,71,93,37.3,179,194,Worsened,0
+9888,M,86,2025-01-16,Hypertension,M19,Beta-blockers,Obesity,145,100,91,37.1,118,155,Improved,0
+77007,F,27,2021-05-28,Asthma,F32,Insulin,,104,100,77,37.3,104,229,Worsened,1
+80596,M,36,2020-01-13,COPD,M19,Beta-blockers,Smoking,131,77,115,36.9,192,218,Stable,0
+72762,F,64,2024-08-05,Asthma,I25,Inhalers,Hyperlipidemia,140,70,66,37.1,189,233,Stable,0
+97107,F,30,2022-11-28,Asthma,E11,Inhalers,,160,72,109,38.5,77,251,Stable,1
+53570,F,79,2018-04-07,Ischemic Heart Disease,E11,Lifestyle changes,Obesity,156,109,112,36.4,104,214,Improved,0
+15627,M,85,2016-11-16,Hypertension,J45,Physical therapy,Hyperlipidemia,100,85,118,36.9,81,202,Improved,0
+98423,F,25,2019-04-04,Depression,J45,Physical therapy,Smoking,119,85,76,37.2,140,202,Stable,0
+38862,F,63,2023-04-25,Diabetes Mellitus,F32,Antidepressants,Hyperlipidemia,104,65,72,36.2,144,272,Worsened,1
+24548,M,30,2019-09-22,Hypertension,I10,Inhalers,Obesity,111,97,59,38.0,74,273,Worsened,1
+78204,M,45,2018-12-18,Diabetes Mellitus,E11,Beta-blockers,Obesity,107,107,56,36.5,199,143,Improved,0
+44525,M,48,2025-02-20,Osteoarthritis,M19,Beta-blockers,,116,81,100,38.2,140,250,Worsened,0
+929,M,58,2024-02-15,Asthma,N18,Dialysis,,119,102,98,38.8,70,240,Stable,1
+30573,M,36,2016-02-20,Ischemic Heart Disease,E11,Beta-blockers,Smoking,166,91,56,38.7,107,231,Stable,0
+2175,F,90,2016-11-02,Hypertension,E11,Dialysis,Obesity,124,80,112,36.5,185,242,Stable,0
+63408,M,25,2017-02-26,Chronic Kidney Disease,N18,Dialysis,Smoking,113,71,111,38.3,98,147,Worsened,0
+15467,M,53,2020-12-05,Hypertension,N18,Dialysis,Smoking,123,84,113,37.5,169,194,Stable,1
+21288,F,60,2015-09-02,Depression,F32,ACE inhibitors,Hyperlipidemia,163,87,111,38.0,145,240,Stable,1
+68792,M,65,2023-11-09,Chronic Kidney Disease,M19,Inhalers,Obesity,172,62,66,39.4,123,139,Stable,1
+64131,M,53,2015-10-22,Depression,E11,Lifestyle changes,Obesity,123,85,70,36.3,133,167,Worsened,1
+42631,M,75,2020-05-31,Asthma,I10,Dialysis,Anemia,178,73,89,36.8,100,196,Worsened,1
+48460,M,79,2016-10-13,Depression,F32,Beta-blockers,Hyperlipidemia,129,69,97,36.8,117,180,Worsened,1
+8286,M,30,2020-04-18,Osteoarthritis,I25,Inhalers,Obesity,176,88,99,38.9,146,181,Improved,1
+56545,F,28,2020-02-20,Asthma,I10,Antidepressants,,131,65,76,37.1,175,223,Improved,1
+36138,M,90,2017-04-27,Chronic Kidney Disease,E11,Dialysis,Smoking,158,94,110,37.0,89,149,Improved,0
+73918,F,18,2019-06-07,Osteoarthritis,E11,Beta-blockers,Obesity,177,109,101,38.0,114,266,Stable,1
+56098,F,20,2015-08-08,COPD,J45,Lifestyle changes,Anemia,111,85,110,36.2,196,176,Improved,0
+25637,F,62,2022-07-10,COPD,E11,Beta-blockers,Sleep Apnea,138,83,105,38.7,144,131,Improved,0
+59976,M,27,2025-02-24,Diabetes Mellitus,I25,Insulin,,127,90,118,39.4,109,229,Worsened,1
+63100,M,50,2019-06-19,Depression,N18,Lifestyle changes,Hyperlipidemia,123,69,105,39.5,131,258,Worsened,0
+56513,M,73,2018-06-27,Depression,I10,Lifestyle changes,Hyperlipidemia,147,65,87,39.4,129,257,Stable,0
+68414,F,23,2023-05-12,Diabetes Mellitus,M19,Beta-blockers,Anemia,166,68,108,39.1,168,249,Improved,1
+24264,F,79,2015-06-27,Diabetes Mellitus,I10,Physical therapy,Smoking,156,70,71,38.5,77,260,Improved,1
+60420,M,67,2024-04-03,Ischemic Heart Disease,N18,ACE inhibitors,Smoking,153,95,116,36.1,71,155,Improved,1
+53043,M,34,2023-11-15,Ischemic Heart Disease,F32,Beta-blockers,Anemia,129,60,77,37.5,178,262,Improved,1
+92131,F,23,2021-05-26,Hypertension,M19,Physical therapy,Anemia,178,101,75,36.5,168,201,Worsened,0
+62661,M,28,2020-08-21,Osteoarthritis,J44,Lifestyle changes,Sleep Apnea,103,62,119,36.2,76,174,Stable,0
+24014,F,80,2021-02-12,Asthma,J44,Dialysis,Hyperlipidemia,123,108,62,38.5,129,212,Stable,0
+12043,M,84,2020-03-04,Chronic Kidney Disease,J44,ACE inhibitors,Hyperlipidemia,125,90,106,38.0,116,243,Improved,0
+49784,M,30,2015-11-06,Osteoarthritis,J44,Inhalers,Hyperlipidemia,106,65,93,36.2,85,210,Worsened,0
+76815,F,88,2020-08-29,COPD,J45,ACE inhibitors,Smoking,143,72,69,37.7,192,189,Improved,0
+15395,F,82,2020-05-11,Ischemic Heart Disease,E11,Inhalers,Smoking,115,78,86,38.8,83,250,Worsened,1
+73797,F,50,2019-10-24,Asthma,E11,Insulin,Sleep Apnea,171,106,115,39.3,172,153,Improved,1
+50179,F,88,2021-03-17,Diabetes Mellitus,I10,Physical therapy,Sleep Apnea,155,68,118,37.7,162,202,Worsened,1
+94485,F,51,2022-09-05,Depression,I25,Dialysis,Anemia,101,64,71,39.2,154,139,Worsened,1
+115,F,84,2025-02-25,Diabetes Mellitus,F32,Lifestyle changes,,131,106,120,38.0,180,244,Worsened,1
+60900,M,42,2024-04-23,Asthma,J45,Beta-blockers,Anemia,110,78,101,38.5,198,267,Stable,0
+59781,M,42,2020-09-14,Chronic Kidney Disease,J44,Inhalers,,141,94,86,37.2,90,209,Stable,1
+62200,F,48,2016-09-18,Depression,I10,Dialysis,Smoking,179,65,109,39.0,71,167,Improved,0
+76634,M,23,2021-05-24,Ischemic Heart Disease,F32,Dialysis,Anemia,142,92,59,38.9,180,168,Stable,0
+37379,F,57,2020-05-16,Hypertension,J44,Dialysis,Anemia,100,88,109,38.0,119,178,Worsened,0
+6730,M,34,2016-01-30,Diabetes Mellitus,N18,Insulin,Sleep Apnea,147,103,102,39.1,174,221,Stable,0
+5905,M,20,2020-02-13,Osteoarthritis,J45,ACE inhibitors,Smoking,173,76,56,37.0,174,210,Improved,0
+65967,M,24,2024-02-10,Asthma,N18,Beta-blockers,Sleep Apnea,111,109,65,36.3,145,163,Improved,0
+14530,F,26,2015-08-19,Chronic Kidney Disease,M19,Insulin,,160,73,64,36.3,155,250,Improved,0
+65586,M,42,2018-01-11,Depression,N18,Lifestyle changes,Hyperlipidemia,161,61,74,38.7,114,154,Stable,1
+7336,F,47,2025-01-18,Asthma,I10,Dialysis,Smoking,116,94,114,36.7,91,136,Stable,0
+88468,M,82,2024-04-24,Depression,M19,Antidepressants,Obesity,150,80,117,38.6,111,270,Worsened,0
+38224,F,87,2017-03-23,Ischemic Heart Disease,E11,Inhalers,,127,61,120,36.7,121,177,Worsened,0
+58175,M,65,2023-08-30,Depression,E11,Beta-blockers,Obesity,165,81,72,37.3,131,223,Worsened,1
+89551,M,30,2017-08-21,Hypertension,F32,Lifestyle changes,Obesity,135,85,81,37.3,110,252,Improved,1
+4163,M,61,2024-08-08,COPD,I10,Inhalers,Anemia,101,104,119,37.8,193,279,Improved,0
+38540,M,38,2022-10-11,Diabetes Mellitus,E11,Insulin,Obesity,132,79,108,37.6,193,223,Stable,1
+69510,M,31,2018-10-07,COPD,J44,Antidepressants,Smoking,140,103,114,37.3,72,255,Improved,0
+33889,M,61,2017-05-14,COPD,E11,Physical therapy,Smoking,118,85,76,37.6,104,204,Worsened,1
+38622,M,57,2021-05-08,Depression,M19,Beta-blockers,Obesity,141,60,81,37.3,88,171,Improved,1
+96588,F,87,2025-01-18,Chronic Kidney Disease,J45,Physical therapy,Anemia,141,64,99,36.3,174,234,Stable,1
+10619,F,69,2018-04-20,COPD,J45,Insulin,Smoking,178,105,76,36.4,108,276,Worsened,0
+38358,F,31,2018-03-19,Asthma,F32,Insulin,,101,83,71,36.6,197,132,Worsened,1
+42506,M,70,2024-03-13,Hypertension,J45,Dialysis,Obesity,126,108,57,37.5,104,260,Improved,1
+32808,F,65,2022-05-08,Hypertension,J44,Inhalers,Hyperlipidemia,144,81,109,39.2,85,218,Improved,0
+56781,F,85,2015-06-27,Hypertension,F32,Beta-blockers,,162,93,61,39.4,178,172,Improved,0
+40369,M,22,2021-02-11,COPD,I10,Physical therapy,Smoking,167,107,91,36.3,147,248,Improved,1
+32387,F,42,2018-06-16,Hypertension,E11,Insulin,Hyperlipidemia,123,98,99,36.6,200,139,Improved,0
+17774,M,82,2017-10-23,Depression,I10,Dialysis,Hyperlipidemia,120,93,70,37.0,93,154,Stable,1
+61122,F,84,2024-04-12,Osteoarthritis,E11,Inhalers,Anemia,179,102,84,37.1,79,151,Improved,1
+17973,M,33,2021-02-10,COPD,F32,Beta-blockers,Smoking,117,65,119,39.4,75,219,Stable,0
+64305,M,61,2015-08-15,Diabetes Mellitus,E11,Physical therapy,Anemia,163,75,57,37.6,181,229,Worsened,1
+69596,F,61,2019-04-25,Osteoarthritis,E11,Dialysis,,174,79,96,37.5,187,229,Worsened,1
+85583,F,32,2019-10-22,COPD,I10,Lifestyle changes,Hyperlipidemia,178,96,70,37.6,128,167,Stable,1
+14985,F,66,2023-03-12,Chronic Kidney Disease,I25,Dialysis,,128,107,71,37.1,110,183,Worsened,1
+34607,F,59,2016-08-29,Chronic Kidney Disease,I10,Antidepressants,,140,76,103,36.4,136,232,Improved,0
+9495,F,70,2019-05-17,Ischemic Heart Disease,I10,Antidepressants,Smoking,132,75,117,38.9,192,147,Improved,1
+32072,F,85,2022-09-20,Depression,J45,Antidepressants,Anemia,161,100,77,38.3,126,253,Worsened,0
+5170,F,78,2017-03-22,Chronic Kidney Disease,I25,Antidepressants,Hyperlipidemia,147,77,71,37.8,188,133,Stable,1
+70610,F,89,2019-03-05,Hypertension,I25,ACE inhibitors,Sleep Apnea,118,60,83,37.6,75,221,Improved,0
+11318,F,65,2019-05-29,Hypertension,I25,Beta-blockers,Anemia,151,101,87,36.8,173,172,Worsened,1
+42991,F,89,2018-02-27,Osteoarthritis,J44,Lifestyle changes,Hyperlipidemia,167,68,56,36.1,160,280,Improved,1
+79977,M,24,2024-09-18,Hypertension,J45,Dialysis,Smoking,127,87,84,36.9,124,218,Improved,1
+60107,F,30,2015-08-04,Hypertension,N18,Lifestyle changes,Anemia,160,90,105,39.3,177,175,Stable,1
+67710,F,66,2016-02-04,Ischemic Heart Disease,I10,Insulin,,104,94,58,37.3,114,241,Improved,0
+43943,M,38,2020-02-18,Diabetes Mellitus,I25,Lifestyle changes,Anemia,174,87,97,38.5,147,191,Worsened,1
+44018,M,21,2024-10-15,Depression,J44,Physical therapy,Obesity,100,74,71,39.3,158,267,Stable,0
+62413,F,48,2021-08-24,Asthma,I10,Beta-blockers,,133,70,76,36.8,82,182,Stable,0
+27785,F,84,2016-07-16,COPD,I25,ACE inhibitors,Hyperlipidemia,168,61,116,39.3,173,225,Worsened,1
+21660,M,58,2020-02-17,Chronic Kidney Disease,N18,ACE inhibitors,Sleep Apnea,105,91,116,39.1,122,174,Improved,0
+31376,M,28,2025-06-03,Chronic Kidney Disease,I10,Insulin,,163,60,117,37.5,89,243,Worsened,1
+82861,M,32,2017-01-06,Osteoarthritis,I10,Inhalers,,159,74,77,39.3,198,279,Stable,1
+13344,M,46,2023-02-24,Ischemic Heart Disease,M19,ACE inhibitors,Obesity,152,110,91,39.3,152,191,Stable,0
+50615,F,74,2023-09-09,Asthma,E11,Insulin,Sleep Apnea,121,71,60,37.4,179,187,Stable,1
+34824,F,45,2023-12-31,COPD,J45,Antidepressants,Obesity,166,98,64,38.3,136,269,Improved,0
+15838,M,30,2024-12-20,Chronic Kidney Disease,E11,Beta-blockers,Hyperlipidemia,177,89,112,37.8,141,194,Worsened,0
+85349,M,48,2016-01-22,Ischemic Heart Disease,N18,Beta-blockers,Anemia,116,102,119,37.4,110,252,Improved,0
+56730,F,88,2018-01-05,Asthma,I10,Physical therapy,Smoking,129,63,106,38.6,82,176,Stable,1
+59923,F,59,2024-04-30,Asthma,J45,Physical therapy,Smoking,140,86,107,37.7,115,196,Improved,1
+33804,F,51,2016-12-18,Ischemic Heart Disease,J44,Inhalers,Anemia,166,66,118,36.5,71,166,Worsened,1
+19838,F,64,2020-01-16,COPD,E11,Insulin,Obesity,167,87,101,38.7,146,225,Stable,1
+21518,F,47,2020-01-13,Hypertension,I10,Beta-blockers,Sleep Apnea,118,64,57,36.2,97,183,Stable,1
+91196,M,60,2020-01-17,Ischemic Heart Disease,J45,Inhalers,Sleep Apnea,145,88,84,36.2,70,156,Stable,0
+28011,F,30,2022-02-07,Asthma,M19,Lifestyle changes,Smoking,116,85,63,37.3,186,276,Improved,0
+30221,M,49,2017-08-07,Chronic Kidney Disease,M19,Beta-blockers,Smoking,117,92,89,36.2,156,232,Improved,1
+65202,M,85,2024-01-06,Asthma,J45,Antidepressants,Obesity,160,77,58,36.9,174,267,Improved,1
+22262,M,37,2018-12-14,COPD,N18,Antidepressants,Anemia,162,74,100,36.9,106,225,Improved,0
+37116,M,84,2018-02-12,Chronic Kidney Disease,J44,Physical therapy,Anemia,148,98,93,37.6,128,216,Stable,0
+44035,M,60,2023-04-25,Osteoarthritis,E11,Physical therapy,Smoking,139,86,104,37.1,124,163,Improved,0
+55594,M,78,2021-09-17,Hypertension,I10,Dialysis,Anemia,125,69,89,38.9,184,173,Improved,1
+34339,M,53,2019-02-12,Ischemic Heart Disease,M19,Antidepressants,,115,78,109,36.2,95,259,Stable,0
+8951,M,59,2021-02-11,Hypertension,E11,Inhalers,,130,83,89,39.0,172,170,Stable,1
+52507,M,45,2021-03-25,Osteoarthritis,M19,Inhalers,Hyperlipidemia,120,84,101,38.5,112,151,Stable,0
+84700,M,55,2020-03-07,COPD,J45,Beta-blockers,Obesity,133,103,103,39.1,71,189,Stable,1
+28853,F,71,2021-03-21,Depression,I10,Lifestyle changes,Smoking,168,109,91,36.5,111,252,Stable,1
+48595,M,55,2018-06-26,Ischemic Heart Disease,E11,Antidepressants,Smoking,154,87,67,36.6,142,273,Worsened,0
+73977,M,48,2022-06-16,Depression,E11,ACE inhibitors,Anemia,146,102,70,39.2,111,181,Improved,0
+45567,F,22,2017-06-01,Asthma,F32,ACE inhibitors,Smoking,146,63,100,37.9,134,259,Stable,1
+87038,M,51,2023-12-07,Osteoarthritis,N18,Lifestyle changes,,119,72,104,36.7,76,130,Improved,1
+11148,F,25,2017-11-29,Chronic Kidney Disease,N18,Inhalers,Anemia,177,80,62,36.5,200,188,Improved,1
+86810,M,20,2024-07-15,Hypertension,E11,Antidepressants,Hyperlipidemia,116,108,120,39.2,173,262,Stable,0
+72444,M,77,2015-07-31,Chronic Kidney Disease,N18,Dialysis,Anemia,164,75,87,38.3,79,158,Worsened,1
+27725,M,49,2022-12-28,Asthma,E11,ACE inhibitors,,168,81,83,38.7,100,133,Worsened,0
+18093,F,77,2024-09-22,Chronic Kidney Disease,I25,Insulin,Sleep Apnea,121,72,67,36.1,133,270,Stable,0
+85627,F,19,2024-04-21,Asthma,F32,Physical therapy,Hyperlipidemia,139,66,116,39.1,94,137,Worsened,1
+90867,M,23,2023-01-19,COPD,M19,Beta-blockers,Hyperlipidemia,116,82,55,36.5,143,163,Worsened,1
+19357,M,23,2022-11-16,Asthma,E11,Lifestyle changes,Hyperlipidemia,147,93,86,39.1,158,161,Worsened,0
+32833,F,77,2019-01-01,Osteoarthritis,I10,Dialysis,Anemia,119,89,90,37.8,142,164,Worsened,1
+89333,F,77,2022-01-19,COPD,M19,Inhalers,Obesity,158,66,96,39.0,81,245,Worsened,0
+31334,M,54,2021-05-19,COPD,I25,Inhalers,,164,63,67,36.5,157,198,Stable,1
+68941,F,29,2022-09-01,Chronic Kidney Disease,E11,Inhalers,Anemia,110,103,89,36.8,133,166,Worsened,1
+32613,M,33,2024-06-04,Depression,I25,Physical therapy,Obesity,164,72,119,37.1,118,276,Stable,0
+41077,M,77,2022-02-21,Depression,N18,Beta-blockers,,156,93,114,37.0,155,242,Improved,0
+16784,F,27,2022-09-07,Hypertension,M19,ACE inhibitors,Sleep Apnea,107,63,109,37.1,179,215,Worsened,1
+41131,F,59,2015-12-30,Asthma,J45,Dialysis,Smoking,161,86,66,38.3,76,205,Improved,0
